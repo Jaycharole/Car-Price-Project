@@ -1,0 +1,577 @@
+,City,Year,Name,Car model,Car Price,KM,Owner,Car Type,Car link
+0,Chennai,2012, Volkswagen Vento,HIGHLINE DIESEL Manual,"₹5,03,799","54,460 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-vento-2012-cars-chennai-1134966224/
+1,Chennai,2021, Hyundai Creta,E Manual,"₹13,47,099","12,419 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2021-cars-chennai-11373192711/
+2,Chennai,2021, Tata Harrier,XT 2.0L Kryotec Manual,"₹20,91,999","3,422 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2021-cars-chennai-11355899779/
+3,Chennai,2012, Toyota Etios Liva,D 4D GD Manual,"₹4,12,399","86,154 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-liva-2012-cars-chennai-1132066466/
+4,Chennai,2019, Maruti Ertiga,ZXI Plus SHVS Manual,"₹9,81,499","41,054 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-chennai-11361497710/
+5,Chennai,2021, Maruti Vitara Brezza,VXI Manual,"₹8,95,099","7,573 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2021-cars-chennai-11369095793/
+6,Chennai,2015, Mercedes Benz C Class,C 200 AVANTGARDE Automatic,"₹22,91,699","40,861 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-mercedes-benz-c-class-2015-cars-chennai-1139103361/
+7,Chennai,2012, Honda Brio,1.2 V MT I VTEC Manual,"₹3,75,299","78,914 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2012-cars-chennai-1137825762/
+8,Chennai,2020, Maruti Celerio,Tour H2 Manual,"₹4,88,299","7,652 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2020-cars-chennai-1134758962/
+9,Chennai,2021, Renault TRIBER,1.0 RXZ Manual,"₹7,39,199","15,952 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2021-cars-chennai-11307395718/
+10,Chennai,2021, Tata ALTROZ,XM+ 1.2 RTN ,"₹7,77,899","9,555 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2021-cars-chennai-11383797799/
+11,Chennai,2022, KIA CARENS,PRESTIGE 1.5G MT 7STR ,"₹14,59,999","4,062 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-carens-2022-cars-chennai-11398799719/
+12,Chennai,2020, Hyundai VENUE,S MT 1.2 KAPPA Manual,"₹8,59,099","24,112 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-chennai-11341190718/
+13,Chennai,2013, Maruti Ritz,VXI BS IV Manual,"₹3,27,399","56,548 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2013-cars-chennai-1130053367/
+14,Chennai,2021, Renault Kwid,1.0 RXT Opt AT Automatic,"₹5,61,699","14,017 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-chennai-11321395717/
+15,Chennai,2021, Renault Kwid,1.0 RXT Opt Manual,"₹4,79,299","4,352 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2021-cars-chennai-1131542060/
+16,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","7,657 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1133356566/
+17,Chennai,2016, Maruti Swift,VXI OPT Manual,"₹5,55,171","32,620 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-chennai-1138007360/
+18,Chennai,2017, Hyundai Xcent,S 1.2 Manual,"₹5,31,299","35,178 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2017-cars-chennai-11351392773/
+19,Chennai,2019, Hyundai Elite i,1.2 MAGNA PLUS VTVT Manual,"₹7,13,399","31,242 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-chennai-11351598775/
+20,Chennai,2018, Honda Amaze,1.5 VXMT I DTEC Manual,"₹7,09,799","47,456 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-amaze-2018-cars-chennai-11321995798/
+21,Chennai,2017, Maruti Swift,VXI OPT Manual,"₹5,62,099","19,953 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1135870602/
+22,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,38,099","5,310 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1133817960/
+23,Chennai,2020, Tata ALTROZ,XZ 1.2 Manual,"₹7,62,199","29,838 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-chennai-1132170168/
+24,Chennai,2014, Hyundai Xcent,S 1.2 Manual,"₹4,37,599","68,256 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-chennai-11308499796/
+25,Chennai,2019, Jeep Compass,LIMITED PLUS 2.0 4*4 Manual,"₹22,24,587","34,502 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2019-cars-chennai-1138108263/
+26,Chennai,2017, Maruti Ertiga,ZXI PLUS Manual,"₹8,24,899","47,428 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2017-cars-chennai-11344490794/
+27,Chennai,2015, Maruti Swift,VXI Manual,"₹4,64,899","51,079 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-chennai-1130869762/
+28,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,69,699","21,908 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1138962465/
+29,Chennai,2017, Maruti Wagon R .,VXI OPT AMT Automatic,"₹4,94,199","28,852 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-11370390795/
+30,Chennai,2018, Mahindra MARAZZO,M8 7 STR Manual,"₹11,18,899","32,683 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-marazzo-2018-cars-chennai-11387698796/
+31,Chennai,2019, Honda City,V CVT Automatic,"₹10,23,099","32,644 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2019-cars-chennai-11350390796/
+32,Chennai,2014, Maruti Alto K,VXI Manual,"₹2,93,043","35,038 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-chennai-1138306060/
+33,Chennai,2017, Volkswagen Ameo,COMFORTLINE PLUS PETROL Manual,"₹4,81,899","50,355 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2017-cars-chennai-11321393771/
+34,Chennai,2018, Maruti Dzire,VXI Manual,"₹6,60,899","15,476 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-chennai-11305594717/
+35,Chennai,2016, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,43,699","16,179 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1135445262/
+36,Chennai,2017, Mahindra TUV,T 10 MT Dual Tone Manual,"₹8,00,799","67,374 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-tuv300-2017-cars-chennai-1136586364/
+37,Chennai,2016, Maruti Swift,VXI OPT Manual,"₹5,60,499","30,007 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-chennai-1130190764/
+38,Chennai,2015, Hyundai Eon,ERA PLUS Manual,"₹3,14,399","29,976 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-chennai-11393291771/
+39,Chennai,2014, Maruti Wagon R .,VXI Manual,"₹3,89,899","30,457 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-chennai-1130014364/
+40,Chennai,2016, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹4,51,299","32,730 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2016-cars-chennai-1130366262/
+41,Chennai,2019, Maruti Celerio,VXI Manual,"₹5,34,799","3,105 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-chennai-1135576966/
+42,Chennai,2017, Maruti Celerio,ZXI AMT Automatic,"₹4,79,699","88,268 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-chennai-1137006263/
+43,Chennai,2014, Maruti Wagon R .,VXI Manual,"₹3,82,199","31,348 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-chennai-1136060262/
+44,Chennai,2019, Hyundai VENUE,1.0L Turbo GDI SX(O) MT Manual,"₹10,09,599","24,834 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-chennai-1133773262/
+45,Chennai,2017, Tata TIGOR,XZ 1.2 REVOTRON OPT Manual,"₹4,96,899","53,302 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tigor-2017-cars-chennai-11311999773/
+46,Chennai,2019, Hyundai Tucson New,2WD AT GL DIESEL Automatic,"₹23,14,599","18,527 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-tucson-new-2019-cars-chennai-11399390797/
+47,Chennai,2018, Renault Kwid,RXT Opt Manual,"₹3,76,958","27,701 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-chennai-11380097796/
+48,Chennai,2019, Renault TRIBER,1.0 RXZ ,"₹6,65,599","24,273 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-chennai-1131817268/
+49,Chennai,2016, Maruti Alto ,LXI Manual,"₹2,92,899","23,666 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-1139437765/
+50,Chennai,2016, Maruti Swift,VXI Manual,"₹4,91,599","62,059 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-chennai-1133353665/
+51,Chennai,2018, Maruti IGNIS,SIGMA 1.2 K12 Manual,"₹4,56,499","20,474 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1135021369/
+52,Chennai,2018, Maruti Dzire,VXI Manual,"₹6,77,999","13,792 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-chennai-11328695794/
+53,Chennai,2020, Hyundai GRAND I NIOS,SPORTZ PETROL Manual,"₹6,88,299","10,732 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-chennai-1131606964/
+54,Chennai,2014, Hyundai Santro Xing,GLS Manual,"₹3,05,699","73,479 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-santro-xing-2014-cars-chennai-11352892792/
+55,Chennai,2019, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,65,599","28,398 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-chennai-11315297779/
+56,Chennai,2016, Maruti Vitara Brezza,VDI Manual,"₹7,04,699","85,486 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-chennai-1134166666/
+57,Chennai,2017, Skoda Rapid,Style 1.5 TDI AT Automatic,"₹8,89,099","90,269 km",1st Owner,Diesel,https://www.cars24.com/buy-used-skoda-rapid-2017-cars-chennai-11390491798/
+58,Chennai,2020, Honda City,VX CVT PETROL Automatic,"₹13,71,399","20,417 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-chennai-1134350961/
+59,Chennai,2015, Hyundai Eon,ERA PLUS Manual,"₹3,11,499","38,791 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-chennai-1138576567/
+60,Chennai,2020, Toyota YARIS,V MT Manual,"₹11,82,299","23,281 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2020-cars-chennai-1138356060/
+61,Chennai,2020, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,72,599","7,617 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2020-cars-chennai-11307692716/
+62,Chennai,2018, Hyundai Eon,ERA PLUS Manual,"₹3,67,499","9,142 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-chennai-1136985269/
+63,Chennai,2018, Maruti Vitara Brezza,ZDI + AMT Automatic,"₹8,99,099","58,464 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-chennai-1132539963/
+64,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹5,78,299","44,664 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1139875262/
+65,Chennai,2017, Maruti S Cross,ZETA 1.3 Manual,"₹7,38,799","43,715 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-chennai-1139297368/
+66,Chennai,2017, Maruti Dzire,VXI Manual,"₹6,53,199","41,445 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-chennai-1130346962/
+67,Chennai,2021, Maruti S PRESSO,VXI AGS Automatic,"₹6,18,099","6,151 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-chennai-11324597779/
+68,Chennai,2021, Maruti Alto,VXI Manual,"₹4,44,399",729 km,1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-chennai-1130888463/
+69,Chennai,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,53,799","20,529 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-1134465060/
+70,Chennai,2017, Hyundai Xcent,SX 1.2 CRDI OPT Manual,"₹6,04,699","61,739 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-xcent-2017-cars-chennai-11355792794/
+71,Chennai,2018, Jeep Compass,2.0 LIMITED Manual,"₹13,87,199","52,121 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2018-cars-chennai-1135391507/
+72,Chennai,2017, Maruti Dzire,VXI Manual,"₹6,50,099","41,221 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-chennai-1132040365/
+73,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,14,499","23,116 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11392396718/
+74,Chennai,2016, Hyundai Elite i,1.4 CRDI ASTA (O) Manual,"₹6,29,099","87,249 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1131937405/
+75,Chennai,2019, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,75,699","17,535 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1130036060/
+76,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,91,999","10,757 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1132836161/
+77,Chennai,2015, Maruti Swift,VXI Manual,"₹5,05,399","58,054 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-chennai-1135736366/
+78,Chennai,2020, MG HECTOR,SHARP DCT PETROL Automatic,"₹18,03,400","8,950 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-chennai-1139682468/
+79,Chennai,2019, Honda Jazz,1.2 V MT Manual,"₹7,60,499","22,713 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-chennai-1133436963/
+80,Chennai,2016, Hyundai Elite i,1.4 CRDI ASTA (O) Manual,"₹6,38,999","85,464 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1132014266/
+81,Chennai,2017, Honda Jazz,1.2 S MT Manual,"₹6,01,399","25,303 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-chennai-1133340661/
+82,Chennai,2017, Maruti Celerio,ZXI Manual,"₹4,40,599","76,710 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-chennai-1133874766/
+83,Chennai,2016, Maruti Celerio,ZXI OPT AMT Automatic,"₹4,66,999","73,966 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-chennai-1132486365/
+84,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,71,199","11,586 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-11307995793/
+85,Chennai,2015, Maruti Alto ,VXI Manual,"₹2,69,399","42,423 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-chennai-1139241766/
+86,Chennai,2018, Hyundai Verna,1.6 SX VTVT Manual,"₹9,39,953","52,396 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-chennai-11378993711/
+87,Chennai,2013, Maruti Wagon R .,VXI Manual,"₹3,34,599","69,280 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2013-cars-chennai-1136698701/
+88,Chennai,2017, Maruti Swift,ZXI Manual,"₹5,62,199","54,484 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1132491169/
+89,Chennai,2019, Renault Kwid,CLIMBER 1.0 AT Automatic,"₹4,93,299","20,618 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-chennai-1136767264/
+90,Chennai,2016, Hyundai Elite i,ASTA 1.2 Manual,"₹6,32,099","77,472 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1138948962/
+91,Chennai,2018, Hyundai Grand i,MAGNA AT 1.2 KAPPA VTVT Automatic,"₹5,55,699","33,939 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-chennai-1131542405/
+92,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,93,899","38,404 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-11397496770/
+93,Chennai,2015, Hyundai Grand i,ASTA 1.2 AT VTVT Automatic,"₹4,98,699","57,825 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1133346264/
+94,Chennai,2018, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,90,799","37,774 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-chennai-11340598796/
+95,Chennai,2020, Hyundai NEW SANTRO,SPORTZ 1.1 Manual,"₹5,54,999","8,486 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-chennai-1137360560/
+96,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,53,999","40,646 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1138287267/
+97,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,52,499","31,841 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1130096260/
+98,Chennai,2020, Hyundai GRAND I NIOS,1.0 TURBO SPORTZ Manual,"₹8,24,299","11,907 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-chennai-11342496719/
+99,Chennai,2020, Hyundai NEW SANTRO,SPORTZ 1.1 Manual,"₹5,65,099","8,243 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-chennai-11342997797/
+100,Chennai,2020, Hyundai GRAND I NIOS,1.2 Kappa Sports MT Manual,"₹6,25,401","38,084 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-chennai-1132601966/
+101,Chennai,2017, Hyundai Eon,ERA+ SE Manual,"₹3,13,299","39,814 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-11330998793/
+102,Chennai,2014, Hyundai Elite i,MAGNA 1.2 Manual,"₹5,07,399","65,401 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-chennai-1133086865/
+103,Chennai,2015, Hyundai Elite i,MAGNA 1.2 Manual,"₹4,99,999","78,226 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-chennai-1136456968/
+104,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹4,06,099","29,664 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-11354095773/
+105,Chennai,2019, Tata Tiago,XZ+ 1.2 Revotron Manual,"₹5,05,299","68,194 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2019-cars-chennai-1131410764/
+106,Chennai,2019, Ford Ecosport,1.0 ECOBOOST TITANIUM SPORTS(SUNROOF) Manual,"₹10,25,499","12,926 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-chennai-1137098863/
+107,Chennai,2019, Honda Jazz,1.2 V MT Manual,"₹6,91,499","40,578 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-chennai-1139827564/
+108,Chennai,2019, Hyundai NEW SANTRO,SPORTZ 1.1 Manual,"₹5,21,799","35,336 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1138228860/
+109,Chennai,2014, Hyundai Elite i,SPORTZ (O) 1.2 Manual,"₹5,21,599","80,666 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-chennai-11314596796/
+110,Chennai,2014, Hyundai Grand i,ASTA 1.2 KAPPA VTVT Manual,"₹4,46,199","65,341 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-chennai-1132235325/
+111,Chennai,2015, Maruti Alto ,LXI Manual,"₹2,71,499","47,438 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-chennai-1134187769/
+112,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,93,899","46,758 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-11347991773/
+113,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,36,899","17,375 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1132690667/
+114,Chennai,2016, Maruti Alto K,VXI Manual,"₹3,47,449","20,718 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-chennai-1139036567/
+115,Chennai,2016, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹6,45,399","53,338 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1136109865/
+116,Chennai,2019, Ford Figo Aspire,1.2 TITANIUM PETROL Manual,"₹7,19,399","23,290 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-aspire-2019-cars-chennai-11382091773/
+117,Chennai,2020, Hyundai NEW SANTRO,SPORTZ 1.1 Manual,"₹5,62,599","20,050 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-chennai-11359390779/
+118,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,57,199","43,516 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-11307998777/
+119,Chennai,2018, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,39,899","17,625 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-chennai-1135630661/
+120,Chennai,2017, Hyundai Eon,ERA PLUS (O) Manual,"₹3,56,964","22,677 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1137810100/
+121,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,71,199","49,612 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-11359994779/
+122,Chennai,2015, Hyundai Grand i,ASTA 1.2 KAPPA VTVT Manual,"₹4,27,199","88,557 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1133826162/
+123,Chennai,2015, Hyundai i Active,1.2 S Manual,"₹5,39,599","60,285 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-chennai-1134737663/
+124,Chennai,2017, Nissan Micra,XL CVT (PETROL) Automatic,"₹5,40,499","30,817 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-2017-cars-chennai-1130371468/
+125,Chennai,2020, Hyundai GRAND I NIOS,MAGNA 1.2 AT Automatic,"₹6,79,199","60,475 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-chennai-1132273062/
+126,Chennai,2015, Hyundai Elite i,ASTA 1.2 Manual,"₹5,60,899","56,462 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-chennai-1130299645/
+127,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,07,799","31,948 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11398197715/
+128,Chennai,2016, Datsun Redi Go,T (O) Manual,"₹2,81,699","24,291 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2016-cars-chennai-1138480768/
+129,Chennai,2018, Ford Ecosport,1.5 TITANIUM PLUS TI VCT AT Automatic,"₹8,85,399","27,426 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-chennai-1132776067/
+130,Chennai,2017, Hyundai Elite i,SPORTZ 1.2 Manual,"₹6,02,599","56,043 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-chennai-1134715867/
+131,Chennai,2015, Renault Kwid,RXT Opt Manual,"₹3,25,299","44,943 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2015-cars-chennai-11361999794/
+132,Chennai,2014, Maruti Wagon R .,VXI Manual,"₹3,35,699","1,14,386 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-chennai-1136220925/
+133,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹3,81,699","53,250 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-1132368762/
+134,Chennai,2015, Nissan Micra Active,XV S Manual,"₹3,60,699","50,468 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-active-2015-cars-chennai-11308294774/
+135,Chennai,2019, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹6,19,299","20,302 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-chennai-1138790761/
+136,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,50,599","36,814 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-11361597790/
+137,Chennai,2016, Maruti Baleno,DELTA 1.2 K12 Manual,"₹5,97,699","50,588 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1130240962/
+138,Chennai,2017, Honda City,V MT PETROL Manual,"₹8,64,299","51,034 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-chennai-1134376068/
+139,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,23,599","58,657 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-1135911060/
+140,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,49,799","31,355 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1132376666/
+141,Chennai,2017, Maruti Baleno,RS 1.0 PETROL Manual,"₹5,61,899","51,353 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1137354902/
+142,Chennai,2018, Ford Ecosport,1.5 TITANIUM TI VCT Manual,"₹8,30,399","20,453 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-chennai-1131700264/
+143,Chennai,2018, Jeep Compass,LIMITED O 1.4 AT Automatic,"₹15,53,899","47,742 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2018-cars-chennai-1138225864/
+144,Chennai,2016, Hyundai i Active,1.2 SX Manual,"₹6,32,599","64,481 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-chennai-11355094792/
+145,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,69,099","29,098 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-11321997796/
+146,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,32,299","37,289 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1136427568/
+147,Chennai,2017, Maruti Alto K,VXI Manual,"₹3,43,699","33,612 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-chennai-1136937765/
+148,Chennai,2017, Maruti Alto ,VXI Manual,"₹3,07,999","41,940 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1132492860/
+149,Chennai,2019, Maruti S PRESSO,VXI PLUS Manual,"₹4,43,599","36,129 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-chennai-11303793792/
+150,Chennai,2018, Honda Jazz,1.2 V AT Automatic,"₹7,13,299","65,905 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2018-cars-chennai-1139237868/
+151,Chennai,2019, Maruti S PRESSO,VXI PLUS Manual,"₹4,67,999","28,648 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-chennai-11350795710/
+152,Chennai,2016, Maruti Alto K,VXI OPT Manual,"₹3,56,199","45,426 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-chennai-1131676166/
+153,Chennai,2017, Hyundai Grand i,1.2 CRDI Sportz O Manual,"₹5,35,399","55,142 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1130364167/
+154,Chennai,2016, Maruti Baleno,DELTA 1.2 K12 Manual,"₹5,61,899","78,170 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1137660769/
+155,Chennai,2016, Hyundai i Active,1.2 SX Manual,"₹5,93,499","93,706 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-chennai-1136924409/
+156,Chennai,2018, Hyundai Elite i,ASTA 1.2 Manual,"₹6,88,799","42,035 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-chennai-1130506566/
+157,Chennai,2017, Maruti IGNIS,SIGMA 1.2 K12 Manual,"₹4,65,899","40,677 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-chennai-1131428064/
+158,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,44,599","40,902 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1134604262/
+159,Chennai,2020, Maruti S PRESSO,VXI Manual,"₹4,76,199","34,694 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-chennai-11327590716/
+160,Chennai,2019, Hyundai NEW SANTRO,SPORTZ 1.1 Manual,"₹5,31,999","61,189 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1130086068/
+161,Chennai,2017, Maruti Vitara Brezza,ZDI PLUS DUAL TONE Manual,"₹8,19,399","84,200 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-chennai-1133395102/
+162,Chennai,2016, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹6,78,441","93,189 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1138230768/
+163,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹5,20,999","14,044 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-11366296770/
+164,Chennai,2018, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,48,699","19,359 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1137394667/
+165,Chennai,2016, Maruti Wagon R .,VXI AMT Automatic,"₹4,35,099","45,322 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-11359790714/
+166,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹4,01,199","43,585 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-11397393795/
+167,Chennai,2017, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,27,999","40,950 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1130114764/
+168,Chennai,2018, Maruti Wagon R .,VXI OPT AMT Automatic,"₹5,19,199","28,459 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-11317495774/
+169,Chennai,2018, Honda WR-V,1.2 i-VTEC VX MT Manual,"₹7,55,299","72,429 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2018-cars-chennai-1132055668/
+170,Chennai,2017, Hyundai Grand i,SPORTZ (O) 1.2 AT VTVT Automatic,"₹5,66,299","78,053 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1136443564/
+171,Chennai,2017, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,15,199","75,992 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1133974867/
+172,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,99,599","22,046 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1137306566/
+173,Chennai,2019, Maruti Alto,VXI Manual,"₹3,50,799","13,835 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-chennai-1138148104/
+174,Chennai,2017, Hyundai Eon,MAGNA PLUS Manual,"₹3,25,699","61,339 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1138907165/
+175,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,69,099","63,433 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-1130970768/
+176,Chennai,2017, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,42,899","75,909 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1138286966/
+177,Chennai,2019, Maruti Alto K,VXI OPT. MT Manual,"₹3,92,399","43,737 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-chennai-1135310561/
+178,Chennai,2017, Maruti Alto ,LXI Manual,"₹3,08,599","54,014 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1139531067/
+179,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","37,131 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1131350961/
+180,Chennai,2017, Hyundai Grand i,SPORTZ (O) 1.2 AT VTVT ,"₹5,60,399","53,180 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1133757966/
+181,Chennai,2016, Maruti Wagon R .,VXI AMT Automatic,"₹4,18,199","74,140 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1135770765/
+182,Chennai,2018, Ford Ecosport,1.5 TITANIUM TI VCT Manual,"₹8,19,599","67,891 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-chennai-1139714301/
+183,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,99,099","25,638 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-11312892775/
+184,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,37,899","35,182 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1131320161/
+185,Chennai,2017, Maruti Alto ,LXI Manual,"₹3,16,399","64,365 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1136353066/
+186,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,63,099","49,741 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-11345195795/
+187,Chennai,2018, Maruti Wagon R .,VXI AMT Automatic,"₹4,93,399","61,912 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1137294761/
+188,Chennai,2017, Maruti Alto K,VXI (O) AMT Automatic,"₹4,14,299","23,386 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-chennai-11310897799/
+189,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,53,299","58,133 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-11313293797/
+190,Chennai,2019, Maruti Swift,LXI Manual,"₹5,89,299","54,157 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-chennai-1139961164/
+191,Chennai,2020, Hyundai VENUE,S MT 1.2 KAPPA Manual,"₹8,68,699","8,600 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-chennai-1137843567/
+192,Chennai,2014, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,38,199","63,251 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-chennai-1135069743/
+193,Chennai,2020, Volkswagen Polo,HIGH LINE PLUS 1.0 Manual,"₹8,46,599","20,731 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2020-cars-chennai-11357295792/
+194,Chennai,2019, Maruti Swift,VXI AMT Automatic,"₹7,31,899","32,429 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-chennai-1130026360/
+195,Chennai,2016, Maruti Baleno,ZETA 1.2 K12 Manual,"₹5,80,699","41,068 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1135447702/
+196,Chennai,2014, Maruti Celerio,VXI Manual,"₹3,86,299","32,442 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-chennai-1136571569/
+197,Chennai,2013, Maruti Swift Dzire,VDI BS IV Manual,"₹4,45,299","1,20,225 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-chennai-1134066424/
+198,Chennai,2016, Toyota Innova Crysta,2.4 ZX 7 STR Manual,"₹15,04,999","2,77,250 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-crysta-2016-cars-chennai-1137517843/
+199,Chennai,2018, Hyundai Creta,1.6 SX (O) CRDI Manual,"₹12,93,599","41,026 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-chennai-11310799711/
+200,Chennai,2010, Honda City,V MT PETROL Manual,"₹4,52,799","45,307 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2010-cars-chennai-11307597797/
+201,Chennai,2014, Maruti Ritz,ZXI Manual,"₹4,23,799","28,929 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-chennai-1132934165/
+202,Chennai,2015, Maruti Alto ,LXI Manual,"₹2,53,599","22,851 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-chennai-1134699303/
+203,Chennai,2021, Maruti Dzire,VXI Manual,"₹7,70,099","2,031 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2021-cars-chennai-11336099798/
+204,Chennai,2013, Maruti Swift,VXI Manual,"₹3,89,199","50,534 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2013-cars-chennai-1130330827/
+205,Chennai,2016, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,78,599","28,727 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2016-cars-chennai-1133259703/
+206,Chennai,2016, Hyundai Grand i,ASTA 1.2 KAPPA VTVT OPT Manual,"₹4,48,799","45,631 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1130519641/
+207,Chennai,2012, Maruti Swift Dzire,VXI 1.2 BS IV Manual,"₹3,42,999","1,60,727 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2012-cars-chennai-1131876143/
+208,Chennai,2013, Volkswagen Polo,COMFORTLINE 1.2L PETROL Manual,"₹4,14,699","75,440 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2013-cars-chennai-1138396762/
+209,Chennai,2016, Maruti Alto ,LXI Manual,"₹2,62,099","34,373 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-1134401369/
+210,Chennai,2020, Maruti Swift,ZXI + AMT Automatic,"₹8,73,799","20,986 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2020-cars-chennai-11314492770/
+211,Chennai,2021, Tata PUNCH,PURE MT ,"₹7,78,899","3,129 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-punch-2021-cars-chennai-11315199710/
+212,Chennai,2014, Honda Amaze,1.2 VXMT I VTEC Manual,"₹4,81,999","48,333 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-chennai-1138950365/
+213,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹3,95,299","22,230 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1136649447/
+214,Chennai,2021, MG HECTOR,SUPER HYBRID PETROL MT Manual,"₹16,57,999","7,472 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2021-cars-chennai-1135736367/
+215,Chennai,2020, Hyundai NEW SANTRO,1.1 ERA EXICUTIVE Manual,"₹4,93,899","18,622 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-chennai-11392492778/
+216,Chennai,2020, Hyundai VENUE,S MT 1.2 KAPPA Manual,"₹8,70,832","17,390 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-chennai-1137736169/
+217,Chennai,2021, Hyundai GRAND I NIOS,SPORTZ PETROL Manual,"₹7,28,599","1,911 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2021-cars-chennai-11394891792/
+218,Chennai,2014, Maruti Swift,VXI Manual,"₹4,76,899","37,093 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-chennai-1137566966/
+219,Chennai,2013, Hyundai i,SPORTZ 1.2 VTVT Manual,"₹4,34,499","33,973 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-chennai-1133899262/
+220,Chennai,2017, Volkswagen Polo,COMFORTLINE 1.2L PETROL Manual,"₹5,63,299","17,174 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2017-cars-chennai-11397696792/
+221,Chennai,2020, Maruti New  Wagon-R,VXI 1.0 Manual,"₹5,23,140","15,270 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-chennai-1130939764/
+222,Chennai,2016, Maruti Swift Dzire,ZXI 1.2 BS IV Manual,"₹5,74,299","29,217 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-chennai-11361590773/
+223,Chennai,2020, Mahindra XUV,W11 (O) AT Automatic,"₹19,23,499","13,690 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2020-cars-chennai-1134384965/
+224,Chennai,2016, Maruti Swift Dzire,ZDI AMT Automatic,"₹6,15,099","74,813 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-chennai-1135236762/
+225,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,14,299","23,246 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1130909144/
+226,Chennai,2017, Maruti Swift,VXI Manual,"₹5,51,599","41,300 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1136826904/
+227,Chennai,2018, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,55,399","22,693 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-chennai-1137256844/
+228,Chennai,2017, Maruti Swift,VXI Manual,"₹5,27,799","60,612 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1137606942/
+229,Chennai,2018, Volkswagen Polo,COMFORTLINE 1.0 PETROL Manual,"₹5,28,099","69,205 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-chennai-1135032005/
+230,Chennai,2018, Volkswagen Polo,Trendline 1.0 L Petrol Manual,"₹5,24,199","47,412 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2018-cars-chennai-1131467365/
+231,Chennai,2021, Maruti Vitara Brezza,ZXI Manual,"₹10,40,599","14,038 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2021-cars-chennai-11382796770/
+232,Chennai,2018, Maruti Swift,ZDI AMT Automatic,"₹6,80,799","1,14,177 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2018-cars-chennai-1133047841/
+233,Chennai,2017, Maruti Swift,VXI OPT Manual,"₹5,57,999","18,908 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1133447860/
+234,Chennai,2016, Maruti Alto ,LXI Manual,"₹2,89,499","18,472 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-1132687144/
+235,Chennai,2019, Renault Kwid,RXL Manual,"₹4,27,099","31,836 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-chennai-1131096066/
+236,Chennai,2014, Honda Amaze,1.2 SX MT I VTEC Manual,"₹4,51,699","82,815 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-chennai-1134826866/
+237,Chennai,2016, Toyota Fortuner,3.0 MT 4X4 Manual,"₹20,30,546","47,174 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-fortuner-2016-cars-chennai-1132982709/
+238,Chennai,2019, Maruti Celerio,VXI Manual,"₹5,43,655","5,842 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-chennai-1133088663/
+239,Chennai,2019, Hyundai VENUE,S MT Turbo GDI 1.0L Manual,"₹8,43,099","2,353 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-chennai-1130785462/
+240,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,08,099","30,221 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-1132799866/
+241,Chennai,2019, Hyundai Creta,1.4 E PLUS CRDI Manual,"₹9,01,799","94,602 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-chennai-1137739103/
+242,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,34,999","15,674 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1137899201/
+243,Chennai,2016, Honda Jazz,1.2 SV MT Manual,"₹5,56,199","36,282 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-chennai-1130550565/
+244,Chennai,2021, Tata Tiago,XZ+ 1.2 Revotron Manual,"₹6,37,599","22,289 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2021-cars-chennai-11304196799/
+245,Chennai,2021, Honda Amaze,1.2 SMT I VTEC Manual,"₹7,41,199","30,912 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2021-cars-chennai-11373595771/
+246,Chennai,2016, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,78,599","60,094 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2016-cars-chennai-1139317907/
+247,Chennai,2021, Maruti Eeco,7 STR Manual,"₹5,26,699","11,184 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2021-cars-chennai-11390898719/
+248,Chennai,2015, Honda Brio,1.2 S MT I VTEC Manual,"₹4,16,299","20,209 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-chennai-11336495797/
+249,Chennai,2021, Hyundai VENUE,S Plus MT 1.2 Kappa Manual,"₹9,45,261","6,122 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-chennai-11325299799/
+250,Chennai,2017, Maruti Ciaz,ALPHA 1.3 DDIS SHVS Manual,"₹8,09,399","44,079 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-chennai-1137976262/
+251,Chennai,2015, Honda Amaze,1.2 SMT I VTEC Manual,"₹4,79,599","64,491 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2015-cars-chennai-1138370361/
+252,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,24,599","20,048 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1135738307/
+253,Chennai,2014, Maruti Alto K,VXI Manual,"₹2,64,699","45,262 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-chennai-1134828627/
+254,Chennai,2018, Maruti Dzire,ZXI Manual,"₹6,83,899","57,701 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-chennai-11311893795/
+255,Chennai,2015, Maruti Alto K,VXI Manual,"₹2,97,899","30,139 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-chennai-1137240607/
+256,Chennai,2018, Maruti Dzire,VXI Manual,"₹6,70,999","6,494 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-chennai-1131450967/
+257,Chennai,2016, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹4,74,399","28,218 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2016-cars-chennai-11389496716/
+258,Chennai,2016, Hyundai Elite i,ASTA 1.2 Manual,"₹6,17,999","29,317 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1133057366/
+259,Chennai,2014, Hyundai Xcent,S 1.2 OPT Manual,"₹4,45,799","51,340 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-chennai-11306795795/
+260,Chennai,2014, Maruti Alto ,LXI Manual,"₹2,50,799","40,462 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-chennai-1135936226/
+261,Chennai,2016, Maruti Celerio,VXI Manual,"₹4,00,799","40,816 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-chennai-1135573465/
+262,Chennai,2015, Hyundai Grand i,SPORTS 1.2 VTVT Manual,"₹4,33,099","24,508 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1134359202/
+263,Chennai,2015, Ford Ecosport,1.5 TITANIUM TI VCT AT Automatic,"₹5,72,399","79,905 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-chennai-1132514862/
+264,Chennai,2021, Hyundai VENUE,S Plus MT 1.2 Kappa Manual,"₹9,12,399","7,283 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2021-cars-chennai-11397591790/
+265,Chennai,2019, Hyundai Verna,1.6 SX+ VTVT AT Automatic,"₹11,66,599","25,845 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2019-cars-chennai-11319997770/
+266,Chennai,2015, Honda City,V MT PETROL Manual,"₹5,45,499","80,042 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-chennai-1137943848/
+267,Chennai,2016, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,12,437","69,645 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1135288468/
+268,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,01,799","34,411 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1136688722/
+269,Chennai,2014, Maruti Alto ,LXI Manual,"₹2,67,699","54,988 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-chennai-1133178369/
+270,Chennai,2017, Maruti Swift,VXI OPT Manual,"₹5,69,999","33,051 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1139244166/
+271,Chennai,2019, Renault TRIBER,1.0 RXZ Manual,"₹7,28,399","9,223 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-chennai-11312993717/
+272,Chennai,2016, Mahindra Kuv,K6 6 STR Manual,"₹4,26,999","54,056 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mahindra-kuv100-2016-cars-chennai-1135236461/
+273,Chennai,2018, Maruti Celerio,VXI (O) Manual,"₹4,59,899","26,238 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-chennai-1133533869/
+274,Chennai,2014, Ford Ecosport,1.5 TITANIUMTDCI OPT Manual,"₹4,63,499","1,51,683 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-chennai-1134918421/
+275,Chennai,2015, Hyundai i,SPORTZ 1.1 IRDE2 Manual,"₹4,00,899","33,387 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-chennai-1139684069/
+276,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹3,97,799","21,087 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1137257340/
+277,Chennai,2017, Honda Jazz,VX  1.2 Manual,"₹6,19,313","16,921 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-chennai-11394397791/
+278,Chennai,2019, Datsun Redi Go,A Manual,"₹2,91,099","19,532 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2019-cars-chennai-11342498710/
+279,Chennai,2016, Maruti Alto ,LXI Manual,"₹2,93,299","27,952 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-1136707763/
+280,Chennai,2021, Maruti S PRESSO,VXI PLUS AGS Automatic,"₹5,38,499","2,238 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-chennai-1134098964/
+281,Chennai,2014, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,43,899","50,230 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-chennai-1137213307/
+282,Chennai,2019, Hyundai Elite i,1.2 MAGNA PLUS VTVT Manual,"₹6,84,799","14,924 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-chennai-1135883367/
+283,Chennai,2015, Maruti Alto K,VXI Manual,"₹2,84,799","51,886 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-chennai-1134332549/
+284,Chennai,2019, Maruti New  Wagon-R,ZXI 1.2 ,"₹5,25,599","25,951 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-chennai-1135487668/
+285,Chennai,2018, Maruti Vitara Brezza,ZDI Manual,"₹8,04,949","45,003 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-chennai-1130080567/
+286,Chennai,2016, Maruti Celerio,ZXI OPT AMT Automatic,"₹4,62,699","80,704 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-chennai-11350597797/
+287,Chennai,2016, Honda City,S MT PETROL Manual,"₹6,83,599","24,709 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-chennai-11390596795/
+288,Chennai,2016, Hyundai Eon,MAGNA PLUS Manual,"₹3,31,599","31,624 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1134392306/
+289,Chennai,2019, Maruti New  Wagon-R,VXI 1.2L Manual,"₹4,99,499","9,704 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-chennai-1131965469/
+290,Chennai,2014, Honda Amaze,1.2 SMT I VTEC Manual,"₹4,07,099","63,258 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-chennai-1139636069/
+291,Chennai,2014, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,55,999","49,574 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-chennai-1133351049/
+292,Chennai,2017, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,02,599","24,362 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-chennai-1133611406/
+293,Chennai,2016, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,46,799","17,429 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11366896771/
+294,Chennai,2016, Honda City,V MT PETROL Manual,"₹6,58,399","54,656 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-chennai-1137767163/
+295,Chennai,2018, Hyundai Eon,ERA PLUS Manual,"₹3,57,599","35,163 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-chennai-1132933261/
+296,Chennai,2019, Renault TRIBER,1.0 RXZ Manual,"₹7,29,188","23,694 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-chennai-1136506460/
+297,Chennai,2017, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,39,399","13,644 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1139414201/
+298,Chennai,2021, Maruti S PRESSO,VXI AGS Automatic,"₹6,08,799","4,242 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-chennai-11341293715/
+299,Chennai,2014, Honda City,VX MT PETROL Manual,"₹6,20,099","72,187 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-chennai-1139104661/
+300,Chennai,2018, Jeep Compass,2.0 LIMITED Manual,"₹14,30,399","35,739 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2018-cars-chennai-1135385000/
+301,Chennai,2018, Maruti IGNIS,SIGMA 1.2 K12 Manual,"₹4,78,899","16,049 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1135890768/
+302,Chennai,2014, Hyundai Xcent,S 1.2 OPT Manual,"₹4,14,999","68,598 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-chennai-1131144603/
+303,Chennai,2015, Hyundai Eon,ERA PLUS Manual,"₹3,05,399","18,666 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-chennai-1132481261/
+304,Chennai,2017, Maruti Swift,VXI OPT Manual,"₹5,78,199","26,289 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1135737666/
+305,Chennai,2017, Maruti Wagon R .,VXI AMT Automatic,"₹4,03,799","16,047 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1131613609/
+306,Chennai,2020, Ford Ecosport,1.5 TITANIUM PLUS TI VCT AT Automatic,"₹10,66,884","14,198 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2020-cars-chennai-11306296792/
+307,Chennai,2014, Ford Ecosport,1.5 TITANIUM TI VCT AT Automatic,"₹5,77,249","76,573 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2014-cars-chennai-1139338164/
+308,Chennai,2017, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,14,199","27,336 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-chennai-1134243366/
+309,Chennai,2016, Hyundai Eon,ERA PLUS Manual,"₹3,09,549","42,236 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1133333007/
+310,Chennai,2019, Honda Jazz,1.2 V MT Manual,"₹7,51,899","11,673 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-chennai-1137353266/
+311,Chennai,2013, Nissan Micra,XL PETROL Manual,"₹3,25,499","62,316 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-2013-cars-chennai-1132740565/
+312,Chennai,2021, Hyundai GRAND I NIOS,SPORTZ PETROL Manual,"₹7,28,599","8,920 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2021-cars-chennai-11326796774/
+313,Chennai,2014, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,47,099","52,480 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-chennai-1138838569/
+314,Chennai,2020, Maruti S PRESSO,VXI Manual,"₹4,76,199","3,927 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-chennai-1133422661/
+315,Chennai,2019, Maruti Celerio,VXI Manual,"₹5,42,799","16,139 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-chennai-11396692775/
+316,Chennai,2016, Maruti Wagon R .,VXI AMT Automatic,"₹4,13,099","18,890 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1131874168/
+317,Chennai,2014, Maruti Alto ,LXI Manual,"₹2,75,799","57,135 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-chennai-1134177843/
+318,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,53,199","7,135 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1137101041/
+319,Chennai,2016, Maruti Swift,ZXI Manual,"₹5,22,399","50,245 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-chennai-1139025068/
+320,Chennai,2016, Renault Kwid,RXT 1.0 EASY-R AT OPTION Automatic,"₹3,87,799","38,990 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-chennai-11349799719/
+321,Chennai,2017, Hyundai Creta,1.6 SX CRDI ,"₹8,32,199","1,24,182 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-chennai-1137370621/
+322,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,68,099","22,798 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1135207507/
+323,Chennai,2019, Honda Jazz,VX  1.2 Manual,"₹7,72,199","18,214 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2019-cars-chennai-1136057362/
+324,Chennai,2016, Maruti Vitara Brezza,VDI Manual,"₹7,04,699","62,209 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2016-cars-chennai-11397891779/
+325,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,41,399","18,899 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1131971101/
+326,Chennai,2016, Renault Kwid,RXT Manual,"₹3,34,199","75,571 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-chennai-11397398773/
+327,Chennai,2017, Maruti Celerio,ZXI OPT AMT Automatic,"₹5,01,699","51,795 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-chennai-1138976668/
+328,Chennai,2015, Hyundai Grand i,MAGNA 1.2 VTVT Manual,"₹4,24,599","40,304 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1132528968/
+329,Chennai,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,31,199","22,961 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-chennai-1130797166/
+330,Chennai,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,31,199","55,196 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-1130219864/
+331,Chennai,2018, Maruti Swift,LXI Manual,"₹5,62,199","48,553 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-chennai-11324297799/
+332,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,18,799","18,811 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1137649601/
+333,Chennai,2017, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,12,399","43,472 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1132610109/
+334,Chennai,2016, Hyundai Eon,MAGNA PLUS OPTIONAL Manual,"₹3,40,499","20,518 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-11341791791/
+335,Chennai,2016, Hyundai Elite i,ASTA 1.2 Manual,"₹5,89,299","54,626 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1130010609/
+336,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,43,499","12,580 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1130050409/
+337,Chennai,2015, Maruti Swift,VXI Manual,"₹4,87,599","67,121 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-chennai-1139881867/
+338,Chennai,2016, Ford Ecosport,1.5TITANIUM TDCI Manual,"₹6,74,499","85,996 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-chennai-1134495264/
+339,Chennai,2017, Maruti Ciaz,ALPHA 1.4 VVT Manual,"₹6,77,799","53,536 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-chennai-1136695766/
+340,Chennai,2020, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,55,499","26,302 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2020-cars-chennai-1139360861/
+341,Chennai,2017, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,00,099","26,079 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-chennai-1138170007/
+342,Chennai,2017, Maruti Swift,VXI Manual,"₹5,62,399","46,402 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1138796568/
+343,Chennai,2015, Maruti Alto K,VXI Manual,"₹2,98,099","60,307 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-chennai-1130747069/
+344,Chennai,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,32,017","29,112 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-chennai-1138836968/
+345,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,54,999","22,036 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1132188468/
+346,Chennai,2018, Maruti Celerio,VXI Manual,"₹4,89,799","20,161 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-chennai-11340899793/
+347,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,87,999","7,493 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1130098164/
+348,Chennai,2017, Maruti Wagon R .,VXI OPT Manual,"₹4,08,153","42,356 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1134506246/
+349,Chennai,2018, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,90,799","28,636 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-chennai-1137576064/
+350,Chennai,2019, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,80,599","9,004 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1135011665/
+351,Chennai,2016, Maruti Alto ,LXI Manual,"₹2,81,499","75,081 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-11327891791/
+352,Chennai,2015, Hyundai Xcent,S 1.1 CRDI Manual,"₹4,40,999","70,577 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-xcent-2015-cars-chennai-1136790942/
+353,Chennai,2016, Hyundai Eon,MAGNA PLUS Manual,"₹3,23,299","26,779 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1131974265/
+354,Chennai,2017, Hyundai Creta,1.6 SX PLUS PETROL Manual,"₹8,14,799","75,640 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-chennai-1133750565/
+355,Chennai,2019, Volkswagen Vento,1.2 TSI HIGHLINE PLUS AT Automatic,"₹9,50,899","23,852 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2019-cars-chennai-1136877264/
+356,Chennai,2018, Renault Kwid,1.0 RXT Opt Manual,"₹3,87,499","42,487 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-chennai-1139751065/
+357,Chennai,2017, Ford New Figo,1.5 TREND Manual,"₹4,69,299","74,921 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-new-figo-2017-cars-chennai-1139418000/
+358,Chennai,2019, Ford FREESTYLE,TITANIUM + 1.2 TI-VCT Manual,"₹6,59,199","21,938 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-chennai-1135850962/
+359,Chennai,2016, Datsun Redi Go,T (O) Manual,"₹2,60,899","39,755 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2016-cars-chennai-1137870468/
+360,Chennai,2016, Ford Ecosport,1.5TITANIUM TDCI Manual,"₹6,13,499","81,582 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-chennai-1130323802/
+361,Chennai,2017, Maruti Alto ,LXI Manual,"₹3,08,999","14,636 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1135337268/
+362,Chennai,2019, Hyundai GRAND I NIOS,Asta Petrol Manual,"₹7,25,699","11,190 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-chennai-1136527869/
+363,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,87,099","32,805 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1137785866/
+364,Chennai,2013, Maruti Alto ,LXI Manual,"₹2,56,499","58,720 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2013-cars-chennai-1138821500/
+365,Chennai,2016, Hyundai Eon,ERA PLUS Manual,"₹3,04,899","53,917 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1137388269/
+366,Chennai,2013, Maruti Wagon R .,VXI Manual,"₹3,72,599","48,953 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2013-cars-chennai-1130809446/
+367,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,49,099","29,145 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1136741042/
+368,Chennai,2017, Ford Ecosport,1.5 TDCI TITANIUM PLUS Manual,"₹6,93,999","90,047 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-chennai-1135141606/
+369,Chennai,2018, Ford Figo Aspire,1.2 TITANIUM PETROL Manual,"₹5,89,399","14,545 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-aspire-2018-cars-chennai-1133515406/
+370,Chennai,2020, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,90,799","7,734 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2020-cars-chennai-1132175909/
+371,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,92,399","20,582 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11319198790/
+372,Chennai,2018, Nissan Micra,XL CVT (PETROL) Automatic,"₹5,57,907","37,642 km",1st Owner,Petrol,https://www.cars24.com/buy-used-nissan-micra-2018-cars-chennai-1135106262/
+373,Chennai,2015, Hyundai Eon,ERA PLUS Manual,"₹2,86,937","70,761 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-chennai-1131648662/
+374,Chennai,2014, Hyundai Elite i,ASTA 1.4 CRDI Manual,"₹5,51,999","90,866 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-chennai-1130214065/
+375,Chennai,2017, Honda City,V MT PETROL Manual,"₹7,82,699","66,192 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-chennai-1131395760/
+376,Chennai,2017, Jeep Compass,2.0 LIMITED Manual,"₹14,57,999","24,777 km",1st Owner,Diesel,https://www.cars24.com/buy-used-jeep-compass-2017-cars-chennai-1133237149/
+377,Chennai,2016, Hyundai Eon,ERA PLUS Manual,"₹3,10,199","39,984 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1136745468/
+378,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,49,799","15,425 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-11308098710/
+379,Chennai,2017, Maruti Dzire,VXI Manual,"₹6,53,199","51,783 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-chennai-11316793793/
+380,Chennai,2019, Maruti Celerio,VXI Manual,"₹5,18,599","49,887 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-chennai-1134068666/
+381,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,88,499","32,470 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1133148069/
+382,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,52,799","13,138 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1134632960/
+383,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,71,199","12,519 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-11387690710/
+384,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,24,999","17,682 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1135053200/
+385,Chennai,2018, Maruti Vitara Brezza,ZDI Manual,"₹8,50,499","61,172 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-chennai-1139898866/
+386,Chennai,2017, Honda Jazz,1.2 V MT Manual,"₹5,92,099","43,474 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-chennai-1135933969/
+387,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹5,31,799","7,286 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-11331192715/
+388,Chennai,2017, Maruti IGNIS,ZETA 1.2 K12 AMT Automatic,"₹5,75,399","22,100 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-chennai-11387797718/
+389,Chennai,2020, Maruti IGNIS,SIGMA 1.2 K12 Manual,"₹5,35,495","20,653 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2020-cars-chennai-11339590719/
+390,Chennai,2016, Hyundai i Active,1.2 SX Manual,"₹6,63,999","54,312 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-chennai-1130716964/
+391,Chennai,2014, Hyundai Elite i,MAGNA 1.2 Manual,"₹4,77,699","84,541 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-chennai-1139514961/
+392,Chennai,2017, Maruti Alto ,LXI Manual,"₹2,92,499","68,061 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1134443400/
+393,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,59,699","32,316 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1138824263/
+394,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,43,999","17,442 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1134684163/
+395,Chennai,2017, Maruti Swift,VXI Manual,"₹5,62,399","59,949 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2017-cars-chennai-1137997766/
+396,Chennai,2013, Hyundai i,ASTA 1.2 Manual,"₹4,16,699","74,695 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-chennai-1137547928/
+397,Chennai,2020, Honda City,ZX MT PETROL Manual,"₹13,16,699","9,277 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-chennai-11365093714/
+398,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,53,099","16,691 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1138095665/
+399,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,88,099","25,873 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1134732361/
+400,Chennai,2016, Renault Kwid,RXT Manual,"₹3,50,537","48,004 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-chennai-11388393716/
+401,Chennai,2016, Renault Kwid,RXT Manual,"₹3,49,599","47,638 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-chennai-11391097773/
+402,Chennai,2016, Hyundai Elite i,ASTA 1.4 CRDI Manual,"₹5,88,099","1,01,947 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1139049900/
+403,Chennai,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹7,01,399","14,506 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-11387799710/
+404,Chennai,2019, Hyundai GRAND I NIOS,Asta Petrol Manual,"₹7,12,199","21,215 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-chennai-1134338266/
+405,Chennai,2015, Hyundai Elite i,SPORTZ 1.2 Manual,"₹5,48,699","77,138 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-chennai-1135796260/
+406,Chennai,2017, Honda Jazz,1.2 SV MT Manual,"₹5,93,499","72,327 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-chennai-1136986261/
+407,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,69,499","25,534 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1136389100/
+408,Chennai,2016, Renault Kwid,RXT 1.0 EASY-R  AT Automatic,"₹3,70,999","55,925 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-chennai-11308399790/
+409,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,82,899","56,248 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11309495793/
+410,Chennai,2019, Renault Kwid,1.0 CLIMBER OPT AMT Automatic,"₹5,09,499","19,635 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-chennai-1136386062/
+411,Chennai,2014, Hyundai Elite i,ASTA 1.2 Manual,"₹4,99,051","69,157 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2014-cars-chennai-1139617865/
+412,Chennai,2018, Hyundai Eon,ERA PLUS Manual,"₹3,61,299","12,080 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-chennai-1137645466/
+413,Chennai,2015, Hyundai Grand i,ASTA 1.2 AT VTVT Automatic,"₹5,09,299","57,280 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-11375193777/
+414,Chennai,2018, Maruti Alto ,VXI Manual,"₹3,14,999","72,412 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1130961302/
+415,Chennai,2019, Renault Kwid,RXL Manual,"₹4,00,799","62,631 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-chennai-1133546964/
+416,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,55,799","13,363 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1132354763/
+417,Chennai,2017, Maruti Vitara Brezza,ZDI PLUS DUAL TONE Manual,"₹8,35,199","54,549 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-chennai-1131869508/
+418,Chennai,2014, Maruti Wagon R .,VXI Manual,"₹3,64,099","54,684 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-chennai-1130592861/
+419,Chennai,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,25,399","31,516 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-chennai-1134361801/
+420,Chennai,2016, Hyundai Eon,ERA PLUS Manual,"₹3,03,899","45,416 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1136177063/
+421,Chennai,2017, Honda City,VX MT PETROL Manual,"₹9,00,299","36,926 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-chennai-11349495716/
+422,Chennai,2019, Hyundai VENUE,1.0 SX TURBO GDI DUAL TONE Manual,"₹9,63,149","64,270 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-chennai-1136546262/
+423,Chennai,2016, Hyundai Eon,MAGNA PLUS OPTIONAL Manual,"₹3,51,599","27,458 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-chennai-1132575663/
+424,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,21,799","21,285 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1134321461/
+425,Chennai,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,76,099","25,509 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-chennai-1133041967/
+426,Chennai,2017, Hyundai Elite i,1.4 CRDI ASTA (O) Manual,"₹6,78,199","95,155 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-chennai-11361598718/
+427,Chennai,2015, Hyundai Grand i,ASTA 1.2 AT VTVT Automatic,"₹5,18,499","50,256 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1139220460/
+428,Chennai,2015, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹4,24,899","81,031 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1132455869/
+429,Chennai,2018, Skoda Rapid,Style 1.5 TDI AT Automatic,"₹10,17,999","65,043 km",1st Owner,Diesel,https://www.cars24.com/buy-used-skoda-rapid-2018-cars-chennai-1136497166/
+430,Chennai,2019, Hyundai Elite i,1.2  ASTA (O) CVT Automatic,"₹7,98,199","37,619 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-chennai-1132383461/
+431,Chennai,2017, Honda City,VX MT PETROL Manual,"₹9,47,699","30,424 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-chennai-1134891766/
+432,Chennai,2017, Honda Jazz,VX  1.2 Manual,"₹6,28,399","54,063 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-chennai-11348792779/
+433,Chennai,2016, Hyundai Elite i,ASTA 1.2 (O) Manual,"₹6,22,299","63,684 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1132404460/
+434,Chennai,2015, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹4,77,099","39,961 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-chennai-1131055764/
+435,Chennai,2017, Maruti Alto ,LXI Manual,"₹3,08,599","16,645 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1138827764/
+436,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,08,599","34,824 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1133875767/
+437,Chennai,2018, Ford Ecosport,1.5 TITANIUM TI VCT Manual,"₹8,46,578","22,511 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-chennai-1131142600/
+438,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,07,399","35,436 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1139111766/
+439,Chennai,2016, Hyundai Elite i,MAGNA 1.2 Manual,"₹5,34,799","1,17,893 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-chennai-1132234706/
+440,Chennai,2018, Maruti Vitara Brezza,ZDI PLUS Manual,"₹9,06,099","76,944 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2018-cars-chennai-1134073767/
+441,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,45,099","30,148 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1139762269/
+442,Chennai,2016, Hyundai Grand i,ASTA 1.2 (O) VTVT Manual,"₹5,14,099","26,707 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1135486560/
+443,Chennai,2015, Ford Ecosport,1.5AMBIENTE TI VCT Manual,"₹5,44,499","85,957 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-chennai-1131090924/
+444,Chennai,2017, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,16,699","32,997 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1134420963/
+445,Chennai,2017, Hyundai Grand i,Sportz(O) 1.2 MT ,"₹4,89,525","39,649 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1133561462/
+446,Chennai,2019, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,73,799","39,704 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1137167464/
+447,Chennai,2016, Maruti Wagon R .,VXI OPT Manual,"₹4,15,299","49,494 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1134381661/
+448,Chennai,2017, Maruti Alto K,VXI Manual,"₹3,43,849","17,927 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-chennai-1135785166/
+449,Chennai,2018, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,70,799","9,926 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-chennai-1138225960/
+450,Chennai,2020, Tata TIGOR,1.2 XZA+ RTN Automatic,"₹7,90,799","6,802 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tigor-2020-cars-chennai-1131236763/
+451,Chennai,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,44,099","51,612 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-chennai-11357798794/
+452,Chennai,2018, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,59,299","35,640 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-chennai-1138830561/
+453,Chennai,2017, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,13,699","68,189 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-chennai-1133394365/
+454,Chennai,2018, Renault Kwid,RXT 1.0 EASY-R AT OPTION Automatic,"₹4,69,499","16,706 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-chennai-1132156860/
+455,Chennai,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹7,01,399","24,965 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-1130616467/
+456,Chennai,2018, Hyundai Elite i,1.4 CRDI ASTA (O) Manual,"₹7,74,199","61,004 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-chennai-1136506260/
+457,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,80,699","60,523 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1135960362/
+458,Chennai,2019, Hyundai GRAND I NIOS,Asta Petrol Manual,"₹6,66,699","26,560 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-chennai-1137001961/
+459,Chennai,2016, Maruti Alto ,LXI Manual,"₹3,08,799","53,144 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2016-cars-chennai-11315594791/
+460,Chennai,2015, Hyundai Elite i,SPORTZ 1.2 Manual,"₹5,39,899","91,409 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-chennai-11303494790/
+461,Chennai,2019, Hyundai GRAND I NIOS,Asta Petrol Manual,"₹7,19,099","28,827 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-chennai-1133613507/
+462,Chennai,2017, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹6,70,799","37,804 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1131121460/
+463,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","15,511 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-11340293794/
+464,Chennai,2018, Volkswagen Ameo,COMFORTLINE 1.0 ,"₹5,43,699","23,894 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-ameo-2018-cars-chennai-1134117066/
+465,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,19,729","19,044 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-11313294773/
+466,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹3,95,799","79,648 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1132812200/
+467,Chennai,2019, Tata Hexa,Varicor 400 XT Manual,"₹17,05,799","46,581 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2019-cars-chennai-1139959646/
+468,Chennai,2015, Maruti Alto K,VXI Manual,"₹3,08,699","48,859 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-chennai-1139615463/
+469,Chennai,2017, Hyundai Grand i,Sportz(O) 1.2 MT Manual,"₹4,81,799","51,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1137381664/
+470,Chennai,2019, Ford Ecosport,1.5 TITANIUM PLUS TI VCT AT Automatic,"₹8,62,099","77,873 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-chennai-1135298665/
+471,Chennai,2016, Maruti Wagon R .,VXI AMT Automatic,"₹4,40,899","33,991 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1133266762/
+472,Chennai,2017, Hyundai Eon,MAGNA PLUS Manual,"₹3,60,999","44,829 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-11329094797/
+473,Chennai,2020, Maruti S PRESSO,VXI PLUS AGS Automatic,"₹5,22,199","13,055 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-chennai-11319593774/
+474,Chennai,2017, Maruti Wagon R .,VXI OPT Manual,"₹4,52,099","35,719 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1133145266/
+475,Chennai,2017, Hyundai Eon,MAGNA PLUS OPTIONAL Manual,"₹3,72,599","29,659 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-11393694773/
+476,Chennai,2020, Maruti S PRESSO,VXI ,"₹4,76,199","8,557 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-chennai-1133777463/
+477,Chennai,2019, Tata Hexa,Varicor 400 XT Manual,"₹18,54,599","34,649 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2019-cars-chennai-1133731848/
+478,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,27,171","55,515 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-11316999793/
+479,Chennai,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,86,799","42,116 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-1138973466/
+480,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹3,93,499","54,644 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-1133567860/
+481,Chennai,2017, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,68,099","59,844 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1130415364/
+482,Chennai,2017, Maruti Wagon R .,VXI OPT AMT Automatic,"₹4,94,199","20,642 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1137682650/
+483,Chennai,2015, Hyundai i Active,1.2 S Manual,"₹5,47,299","1,01,847 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-chennai-1136159240/
+484,Chennai,2015, Maruti Alto K,VXI Manual,"₹3,08,099","60,259 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-chennai-1138244165/
+485,Chennai,2019, Maruti Baleno,ALPHA 1.2K12  AT Automatic,"₹8,37,599","39,661 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-chennai-11336698778/
+486,Chennai,2018, Hyundai Elite i,SPORTZ 1.2 Manual,"₹6,41,399","55,855 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-chennai-11326291772/
+487,Chennai,2018, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,38,099","41,241 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-chennai-11353493770/
+488,Chennai,2021, Maruti S PRESSO,VXI PLUS Manual,"₹4,95,799","5,141 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-chennai-1132368363/
+489,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,49,799","54,613 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1131850066/
+490,Chennai,2017, Hyundai Elite i,ASTA 1.2 (O) Manual,"₹6,40,899","49,956 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-chennai-1130154965/
+491,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,39,399","46,862 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1137275469/
+492,Chennai,2016, Hyundai Grand i,1.2 ASTA (O) AT Automatic,"₹5,09,699","96,040 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-1139883148/
+493,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹3,93,933","66,417 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-1135812606/
+494,Chennai,2018, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,69,799","49,848 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-chennai-1132575067/
+495,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,28,099","42,959 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1139968563/
+496,Chennai,2017, Hyundai Elite i,SPORTZ 1.2 Manual,"₹6,10,499","89,729 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-chennai-11321894774/
+497,Chennai,2017, Maruti Wagon R .,VXI OPT Manual,"₹4,91,799","11,243 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1137613867/
+498,Chennai,2018, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,48,699","12,561 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1137697361/
+499,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,28,199","19,686 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-1138214646/
+500,Chennai,2018, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,48,699","18,237 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1134918161/
+501,Chennai,2018, Hyundai Eon,ERA PLUS Manual,"₹3,55,699","60,516 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-chennai-1130684364/
+502,Chennai,2019, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,33,999","45,328 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-chennai-1133552107/
+503,Chennai,2018, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,44,899","39,484 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-chennai-1133993965/
+504,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,73,599","15,288 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1130966169/
+505,Chennai,2014, Maruti Wagon R .,VXI Manual,"₹3,68,499","70,238 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-chennai-1138656760/
+506,Chennai,2018, Renault Kwid,RXT 1.0 EASY-R AT OPTION Automatic,"₹4,60,199","24,921 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-chennai-1134380666/
+507,Chennai,2017, Hyundai Grand i,SPORTS 1.2 VTVT Manual,"₹4,91,499","44,240 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1131238564/
+508,Chennai,2016, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,28,999","65,520 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-11357490712/
+509,Chennai,2017, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,52,561","22,208 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-11367795791/
+510,Chennai,2017, Honda City,V MT PETROL Manual,"₹7,43,499","81,508 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-chennai-1134282808/
+511,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,50,159","43,071 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1135888060/
+512,Chennai,2019, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,75,099","17,350 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2019-cars-chennai-1131457602/
+513,Chennai,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,01,099","53,933 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-chennai-11364791798/
+514,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","14,064 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1138138160/
+515,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,10,099","69,381 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1131140842/
+516,Chennai,2017, Maruti Alto ,VXI Manual,"₹3,03,899","74,559 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1132981402/
+517,Chennai,2016, Maruti Alto K,VXI AMT Automatic,"₹3,85,199","96,298 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-chennai-11364791791/
+518,Chennai,2017, Honda WR-V,1.5 i-DTEC VX MT Manual,"₹7,33,399","1,02,728 km",1st Owner,Diesel,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-chennai-1134062406/
+519,Chennai,2018, Maruti Wagon R .,VXI AMT Automatic,"₹4,94,099","31,837 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1132805602/
+520,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,56,949","30,695 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1135985160/
+521,Chennai,2019, Maruti S PRESSO,VXI Manual,"₹4,47,699","26,567 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-chennai-11348093714/
+522,Chennai,2017, Hyundai Grand i,ASTA 1.2 KAPPA VTVT Manual,"₹5,50,999","36,506 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1130807065/
+523,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,62,899","39,001 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1130914465/
+524,Chennai,2017, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,08,499","60,629 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1138124160/
+525,Chennai,2017, Hyundai Eon,ERA PLUS Manual,"₹3,38,899","42,215 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-chennai-1134401942/
+526,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,32,999","78,251 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-11311599712/
+527,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,36,699","70,250 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1138090305/
+528,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,26,399","64,507 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1131230767/
+529,Chennai,2017, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹6,72,399","44,946 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-1132608862/
+530,Chennai,2016, Maruti Alto K,VXI AMT Automatic,"₹3,89,699","33,350 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-chennai-1130588865/
+531,Chennai,2016, Maruti Wagon R .,VXI Manual,"₹4,38,899","63,743 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-chennai-1136220961/
+532,Chennai,2017, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,81,499","96,751 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1139666060/
+533,Chennai,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,36,899","39,708 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-11386499796/
+534,Chennai,2017, Maruti Vitara Brezza,ZDI PLUS DUAL TONE Manual,"₹8,09,599","98,027 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-vitara-brezza-2017-cars-chennai-1136205602/
+535,Chennai,2018, Ford Figo Aspire,1.5 TITANIUM DIESEL Manual,"₹6,06,699","94,941 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-figo-aspire-2018-cars-chennai-1137266164/
+536,Chennai,2017, Hyundai Grand i,Sportz(O) 1.2 MT Manual,"₹4,90,199","61,023 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1138214867/
+537,Chennai,2017, Maruti Wagon R .,VXI Manual,"₹4,39,499","72,963 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1139835560/
+538,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","25,639 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1133821063/
+539,Chennai,2017, Maruti Alto K,VXI Manual,"₹3,54,499","38,209 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-chennai-1130546666/
+540,Chennai,2017, Maruti Wagon R .,VXI PLUS Manual,"₹4,22,799","73,880 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2017-cars-chennai-1130650763/
+541,Chennai,2017, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹7,17,699","27,746 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-11346697776/
+542,Chennai,2017, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,26,099","69,150 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1132573769/
+543,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","36,384 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1133510261/
+544,Chennai,2017, Hyundai Grand i,SPORTZ (O) 1.2 AT VTVT Automatic,"₹5,85,099","47,412 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-1132135868/
+545,Chennai,2017, Maruti Alto ,LXI Manual,"₹3,25,199","42,378 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-chennai-1137396360/
+546,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,95,099","38,068 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1132028163/
+547,Chennai,2018, Maruti Wagon R .,VXI Manual,"₹4,85,499","27,625 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1130532701/
+548,Chennai,2018, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,48,699","49,409 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-11304099717/
+549,Chennai,2017, Hyundai Grand i,SPORTZ (O) 1.2 AT VTVT Automatic,"₹5,73,599","49,027 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-chennai-11338393792/
+550,Chennai,2018, Maruti Wagon R .,VXI PLUS AMT Automatic,"₹4,80,099","80,221 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1131053907/
+551,Chennai,2018, Maruti IGNIS,DELTA 1.2 K12 Manual,"₹5,24,399","63,508 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-chennai-1138618109/
+552,Chennai,2019, Maruti Alto,LXI Manual,"₹3,50,199","18,866 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-chennai-11392096775/
+553,Chennai,2018, Maruti Wagon R .,VXI AMT Automatic,"₹5,01,699","48,809 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-chennai-1134863560/
+554,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,41,699","26,458 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-11334899790/
+555,Chennai,2018, Maruti Alto ,LXI Manual,"₹3,34,999","75,920 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-chennai-1134304867/
+556,Chennai,2017, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,60,899","61,979 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-chennai-11349294796/
+557,Chennai,2019, Maruti Alto,LXI Manual,"₹3,50,199","44,032 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2019-cars-chennai-11334791774/
+558,Chennai,2019, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,35,499","50,507 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-chennai-11388995774/
+559,Chennai,2021, Maruti Alto,LXI Manual,"₹4,16,751","8,291 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-chennai-11394296713/
+560,Chennai,2019, Maruti Alto ,LXI Manual,"₹3,58,199","61,478 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2019-cars-chennai-1132046867/
+561,Chennai,2019, Maruti Swift,LXI Manual,"₹5,89,299","10,439 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-chennai-1138495963/
+562,Chennai,2020, Hyundai VENUE,S MT 1.2 KAPPA ,"₹8,43,399","6,997 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-chennai-1137162143/
+563,Chennai,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,11,999","21,028 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-chennai-1136911465/
+564,Chennai,2016, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹6,71,499","43,419 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-chennai-1133435063/
+565,Chennai,2013, Maruti Swift Dzire,VDI BS IV Manual,"₹3,95,599","85,996 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-chennai-1131405325/
+566,Chennai,2019, Maruti Swift,VXI AMT Automatic,"₹6,35,599","61,052 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2019-cars-chennai-1134517569/
+567,Chennai,2021, Renault TRIBER,1.0 RXL PETROL Manual,"₹6,64,699","16,515 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2021-cars-chennai-1136611362/
+568,Chennai,2016, Ford Ecosport,1.5TITANIUM TDCI Manual,"₹6,47,399","53,681 km",1st Owner,Diesel,https://www.cars24.com/buy-used-ford-ecosport-2016-cars-chennai-1136258168/
+569,Chennai,2013, Maruti Swift Dzire,VXI 1.2 BS IV Manual,"₹4,10,199","1,54,154 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2013-cars-chennai-1130482906/
+570,Chennai,2019, Renault TRIBER,1.0 RXT Manual,"₹6,11,799","29,826 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-chennai-1136172664/
+571,Chennai,2018, Jeep Compass,LIMITED O 1.4 AT Automatic,"₹15,73,699","36,654 km",1st Owner,Petrol,https://www.cars24.com/buy-used-jeep-compass-2018-cars-chennai-1139635463/
+572,Chennai,2017, Maruti Dzire,VDI AMT Automatic,"₹6,28,399","93,752 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-chennai-1130642108/
+573,Chennai,2015, Maruti Wagon R .,VXI Manual,"₹3,59,699","76,732 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-chennai-1131522304/
+574,Chennai,2016, Renault Duster,RXL PETROL 104 Manual,"₹6,14,299","20,916 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2016-cars-chennai-11370791712/
+575,Chennai,2020, Maruti Swift,LXI Manual,"₹4,98,099","36,501 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2020-cars-chennai-11318492717/

@@ -1,0 +1,431 @@
+,City,Year,Name,Car model,Car Price,KM,Owner,Car Type,Car link
+0,Bengaluru,2021, KIA SELTOS,GTX 1.4 GDI PETROL Manual,"₹19,89,199","4,257 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2021-cars-bengaluru-10289993793/
+1,Bengaluru,2019, Maruti Celerio,VXI Manual,"₹5,61,099","5,382 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-bengaluru-1026486166/
+2,Bengaluru,2017, Renault Duster,RXS CVT 106 PS Automatic,"₹8,72,299","31,859 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2017-cars-bengaluru-1023096963/
+3,Bengaluru,2020, Maruti New  Wagon-R,ZXI 1.2 Manual,"₹6,55,599","5,702 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2020-cars-bengaluru-10245492711/
+4,Bengaluru,2012, Maruti Wagon R .,VXI Manual,"₹3,59,799","37,683 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2012-cars-bengaluru-10209498719/
+5,Bengaluru,2017, Honda WR-V,1.2 i-VTEC VX MT Manual,"₹7,83,699","43,808 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-bengaluru-1025042167/
+6,Bengaluru,2017, Hyundai Grand i,Magna 1.2 AT  VTVT Automatic,"₹5,81,699","12,646 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-bengaluru-10212696776/
+7,Bengaluru,2017, Honda City,V MT PETROL Manual,"₹8,87,799","28,310 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1026076365/
+8,Bengaluru,2015, Maruti Celerio,VXI Manual,"₹4,49,699","33,689 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-bengaluru-1022910468/
+9,Bengaluru,2019, MG HECTOR,SHARP 2.0 DIESEL Manual,"₹18,61,799","20,909 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1029623667/
+10,Bengaluru,2018, Mahindra Bolero,Power+ ZLX Micro Hybrid Manual,"₹9,17,899","32,238 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-bolero-2018-cars-bengaluru-10249791717/
+11,Bengaluru,2014, Hyundai Xcent,S 1.2 Manual,"₹4,91,099","39,836 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-bengaluru-1024845562/
+12,Bengaluru,2019, MG HECTOR,SMART DIESEL Manual,"₹15,30,199","49,501 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1028680563/
+13,Bengaluru,2019, MG HECTOR,SHARP 2.0 DIESEL Manual,"₹18,82,799","30,076 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1026496561/
+14,Bengaluru,2019, MG HECTOR,SHARP 2.0 DIESEL Manual,"₹19,17,599","26,225 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1022122361/
+15,Bengaluru,2015, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,22,999","20,067 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1029006464/
+16,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,60,799","38,596 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1026746762/
+17,Bengaluru,2013, Honda Brio,1.2 V MT I VTEC Manual,"₹3,63,799","60,696 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2013-cars-bengaluru-1026467864/
+18,Bengaluru,2019, Hyundai NEW SANTRO,1.1 MAGNA MT Manual,"₹5,26,199","11,005 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-bengaluru-1025591463/
+19,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,93,499","36,475 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1029960561/
+20,Bengaluru,2020, Honda City,V MT PETROL Manual,"₹11,73,999","14,417 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-bengaluru-10234491798/
+21,Bengaluru,2013, Honda Amaze,1.2 VXMT I VTEC Manual,"₹4,80,499","47,686 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2013-cars-bengaluru-1023471563/
+22,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,70,099","48,877 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1021718668/
+23,Bengaluru,2016, Maruti Celerio,VXI Manual,"₹4,59,999","38,954 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-bengaluru-1020557105/
+24,Bengaluru,2017, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,35,899","11,086 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1028928067/
+25,Bengaluru,2016, Hyundai Eon,ERA PLUS Manual,"₹3,38,099","45,891 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-bengaluru-10223496771/
+26,Bengaluru,2014, Hyundai Grand i,ASTA 1.2 AT VTVT Automatic,"₹4,71,999","53,048 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-10252999797/
+27,Bengaluru,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,62,999","27,780 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-bengaluru-1028148866/
+28,Bengaluru,2020, Tata NEXON,XZ 1.2 Manual,"₹9,22,299","8,102 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-bengaluru-1023467860/
+29,Bengaluru,2019, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,98,899","18,681 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-bengaluru-1021252960/
+30,Bengaluru,2016, Honda Jazz,1.2 S AT Automatic,"₹6,23,599","48,138 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1027223064/
+31,Bengaluru,2019, Maruti Alto K,VXI Manual,"₹3,79,699","79,432 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-bengaluru-1023090864/
+32,Bengaluru,2017, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,48,499","17,914 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2017-cars-bengaluru-1021672561/
+33,Bengaluru,2014, Honda City,S MT PETROL Manual,"₹6,19,499","57,997 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2014-cars-bengaluru-1020095564/
+34,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹3,62,899","44,059 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1021471163/
+35,Bengaluru,2016, Honda City,V MT PETROL Manual,"₹7,72,899","40,368 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2016-cars-bengaluru-1027158863/
+36,Bengaluru,2017, Renault Duster,RXZ 85 PS DIESEL Manual,"₹9,10,899","71,705 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2017-cars-bengaluru-1020413468/
+37,Bengaluru,2015, Hyundai Elite i,ASTA 1.2 Manual,"₹6,12,199","60,878 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-bengaluru-10221490797/
+38,Bengaluru,2015, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,97,299","40,710 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1021394960/
+39,Bengaluru,2021, Maruti IGNIS,ZETA 1.2 K12 AMT Automatic,"₹8,15,199","6,005 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2021-cars-bengaluru-10218795790/
+40,Bengaluru,2020, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹6,40,399","20,352 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2020-cars-bengaluru-1024430064/
+41,Bengaluru,2019, Ford Ecosport,1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,"₹10,60,199","40,792 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-bengaluru-1026660067/
+42,Bengaluru,2016, Hyundai Grand i,ASTA 1.1 (O) CRDI Manual,"₹5,27,899","75,483 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1020146564/
+43,Bengaluru,2019, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹6,22,499","20,246 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-bengaluru-1023566686/
+44,Bengaluru,2018, Maruti Celerio,ZXI Manual,"₹5,25,499","42,422 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-bengaluru-10285998795/
+45,Bengaluru,2016, Hyundai i Active,1.2 SX Manual,"₹6,69,999","51,929 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2016-cars-bengaluru-1027450869/
+46,Bengaluru,2017, Hyundai Eon,MAGNA PLUS Manual,"₹3,81,299","18,241 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-bengaluru-1022256065/
+47,Bengaluru,2016, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,25,599","58,172 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-bengaluru-10278496778/
+48,Bengaluru,2019, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,86,299","36,398 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-bengaluru-1024016368/
+49,Bengaluru,2018, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,46,999","61,256 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-bengaluru-10227898715/
+50,Bengaluru,2017, Hyundai Eon,MAGNA PLUS Manual,"₹3,81,299","29,951 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-bengaluru-1028416268/
+51,Bengaluru,2018, Toyota YARIS,V CVT Automatic,"₹10,78,067","10,585 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-bengaluru-10256294771/
+52,Bengaluru,2016, Hyundai Grand i,ASTA 1.2 (O) VTVT Manual,"₹5,44,499","86,760 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-10271597778/
+53,Bengaluru,2017, Honda City,V MT PETROL Manual,"₹8,39,599","40,600 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1023580662/
+54,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,45,099","66,021 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1020113368/
+55,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,02,699","73,271 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1022543965/
+56,Bengaluru,2017, Honda City,V MT PETROL Manual,"₹8,36,199","71,077 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1027566564/
+57,Bengaluru,2017, Maruti Ciaz,ZXI Manual,"₹8,27,299","31,318 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2017-cars-bengaluru-1027542163/
+58,Bengaluru,2018, Toyota YARIS,V MT Manual,"₹8,23,899","36,498 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-bengaluru-1020542008/
+59,Bengaluru,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,11,499","39,493 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1022056361/
+60,Bengaluru,2017, Maruti Baleno,ZETA 1.2 K12 AMT Automatic,"₹6,74,999","62,360 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-bengaluru-1029565669/
+61,Bengaluru,2019, Maruti Alto K,VXI AMT Automatic,"₹4,80,801","14,345 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-bengaluru-1028518364/
+62,Bengaluru,2017, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,96,999","27,858 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-bengaluru-1026397168/
+63,Bengaluru,2019, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹7,11,099","29,402 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-bengaluru-1022820567/
+64,Bengaluru,2019, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹7,19,299","33,425 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2019-cars-bengaluru-2378606460/
+65,Bengaluru,2018, Maruti Wagon R .,VXI AMT Automatic,"₹4,96,999","39,746 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-bengaluru-10244392779/
+66,Bengaluru,2020, Maruti Alto,LXI Manual,"₹4,07,499","31,304 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-bengaluru-1020816265/
+67,Bengaluru,2018, Maruti Alto K,VXI (O) AMT Automatic,"₹4,73,599","21,562 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-1023682464/
+68,Bengaluru,2012, Maruti Swift,VXI Manual,"₹4,34,599","56,391 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2012-cars-bengaluru-1020156163/
+69,Bengaluru,2014, Maruti Swift,VXI Manual,"₹4,93,499","51,781 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-bengaluru-1022079424/
+70,Bengaluru,2020, Maruti Vitara Brezza,ZXI + Manual,"₹10,65,599","14,065 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-bengaluru-1028900166/
+71,Bengaluru,2018, Hyundai Elite i,ASTA 1.2 Manual,"₹7,72,099","14,165 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-bengaluru-10290195792/
+72,Bengaluru,2019, Renault Kwid,RXL Manual,"₹4,27,499","8,947 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-bengaluru-10206090779/
+73,Bengaluru,2016, Maruti Swift,VXI OPT Manual,"₹6,14,799","9,755 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2016-cars-bengaluru-1020550963/
+74,Bengaluru,2012, Maruti Alto K,VXI Manual,"₹2,75,999","55,334 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2012-cars-bengaluru-10249395794/
+75,Bengaluru,2017, Maruti Dzire,ZXI Plus AMT Automatic,"₹7,48,499","60,090 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2017-cars-bengaluru-1025190865/
+76,Bengaluru,2017, Hyundai Creta,1.6 SX CRDI Manual,"₹11,34,199","57,767 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-bengaluru-1029260462/
+77,Bengaluru,2010, Maruti Wagon R .,VXI Manual,"₹3,22,899","27,423 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2010-cars-bengaluru-1027340367/
+78,Bengaluru,2016, Hyundai Elite i,SPORTZ 1.2 Manual,"₹5,99,799","49,527 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-bengaluru-1022368464/
+79,Bengaluru,2019, Hyundai GRAND I NIOS,SPORTZ PETROL Manual,"₹6,80,999","12,731 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-bengaluru-1022756761/
+80,Bengaluru,2016, Renault Kwid,RXL Manual,"₹3,48,799","41,599 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-bengaluru-1028556362/
+81,Bengaluru,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,13,799","31,842 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-bengaluru-1022059861/
+82,Bengaluru,2012, Maruti Alto K,VXI Manual,"₹2,99,399","49,885 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2012-cars-bengaluru-1021664748/
+83,Bengaluru,2017, Renault Kwid,CLIMBER 1.0 AT Automatic,"₹4,54,799","44,911 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-bengaluru-1022048863/
+84,Bengaluru,2015, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,24,299","95,138 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1022036560/
+85,Bengaluru,2016, Maruti Alto K,VXI Manual,"₹3,52,199","37,215 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1021028863/
+86,Bengaluru,2017, Hyundai Xcent,SX 1.2 Manual,"₹5,92,199","44,796 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2017-cars-bengaluru-1024072268/
+87,Bengaluru,2018, Maruti Ertiga,ZDI PLUS SHVS Manual,"₹11,01,499","33,670 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2018-cars-bengaluru-10256197799/
+88,Bengaluru,2012, Hyundai i,ERA 1.1 IRDE Manual,"₹3,95,099","17,573 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2012-cars-bengaluru-1021886160/
+89,Bengaluru,2020, KIA SELTOS,1.5 GTX+ AT Automatic,"₹19,20,399","38,331 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-bengaluru-1027256267/
+90,Bengaluru,2017, Maruti Alto ,LXI Manual,"₹3,33,699","25,297 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1024586569/
+91,Bengaluru,2021, Renault Kiger,RXZ 1.0 AT DUAL TONE ,"₹10,43,799","7,396 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kiger-2021-cars-bengaluru-10279095778/
+92,Bengaluru,2011, Hyundai Verna,FLUIDIC 1.6 SX VTVT Manual,"₹5,02,999","85,488 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2011-cars-bengaluru-10257099799/
+93,Bengaluru,2021, Renault Duster,RXZ Manual,"₹11,87,899","4,031 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2021-cars-bengaluru-10218095796/
+94,Bengaluru,2015, Volkswagen Polo,HIGHLINE1.2L PETROL Manual,"₹5,99,899","58,080 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2015-cars-bengaluru-1026034365/
+95,Bengaluru,2016, Maruti Ciaz,ZXI RS Manual,"₹6,96,699","74,477 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2016-cars-bengaluru-1028963463/
+96,Bengaluru,2020, Honda City,V MT PETROL Manual,"₹11,82,999","14,594 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2020-cars-bengaluru-10289292795/
+97,Bengaluru,2014, Maruti Alto ,LXI Manual,"₹2,83,255","51,952 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-bengaluru-1020444961/
+98,Bengaluru,2015, Hyundai Elite i,ASTA 1.2 Manual,"₹6,35,499","42,231 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-bengaluru-10251596773/
+99,Bengaluru,2018, Renault Duster,RXS CVT 106 PS Automatic,"₹9,76,599","21,486 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2018-cars-bengaluru-10235195775/
+100,Bengaluru,2016, Hyundai Creta,1.6 SX PLUS VTVT Manual,"₹10,22,699","33,896 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2016-cars-bengaluru-10280997778/
+101,Bengaluru,2012, Ford Figo,1.2 TITANIUM DURATEC Manual,"₹3,65,899","54,944 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-2012-cars-bengaluru-1024948462/
+102,Bengaluru,2017, Hyundai Elite i,1.4 CRDI ASTA (O) Manual,"₹7,63,499","54,063 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-bengaluru-10247193710/
+103,Bengaluru,2013, Ford Figo,1.2 TITANIUM DURATEC Manual,"₹3,76,099","41,263 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-2013-cars-bengaluru-1028995061/
+104,Bengaluru,2016, Honda Jazz,1.2 V MT Manual,"₹6,61,799","48,329 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1029234360/
+105,Bengaluru,2015, Hyundai Elite i,ASTA 1.4 CRDI Manual,"₹7,17,059","56,911 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-bengaluru-1023476364/
+106,Bengaluru,2020, MG HECTOR,SMART HYBRID PETROL MT Manual,"₹16,00,099","21,740 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-2020-cars-bengaluru-1028048364/
+107,Bengaluru,2015, Hyundai Xcent,S 1.2 OPT Manual,"₹5,02,699","42,107 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2015-cars-bengaluru-1023016963/
+108,Bengaluru,2015, Honda Brio,1.2 S MT I VTEC Manual,"₹4,47,899","70,558 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-bengaluru-10288992776/
+109,Bengaluru,2015, Honda Jazz,1.2 E MT Manual,"₹5,40,099","33,862 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2015-cars-bengaluru-10239093790/
+110,Bengaluru,2013, Honda City,V MT PETROL Manual,"₹5,41,399","60,599 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2013-cars-bengaluru-1020026163/
+111,Bengaluru,2019, Maruti Baleno,DELTA 1.2 K12 Manual,"₹7,25,699","24,900 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2019-cars-bengaluru-10231199770/
+112,Bengaluru,2019, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,73,599","30,663 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-bengaluru-1021446062/
+113,Bengaluru,2020, Maruti XL,ZETA AT SHVS Automatic,"₹12,24,599","55,422 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-xl6-2020-cars-bengaluru-10233198772/
+114,Bengaluru,2021, Datsun Redi Go,T (O) Manual,"₹4,91,499","1,660 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2021-cars-bengaluru-1026582662/
+115,Bengaluru,2019, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,88,399","14,858 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-bengaluru-1025783766/
+116,Bengaluru,2016, Maruti Celerio,VXI Manual,"₹4,84,199","24,938 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-bengaluru-10260097790/
+117,Bengaluru,2015, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹3,87,099","60,141 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-bengaluru-1028062169/
+118,Bengaluru,2016, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹3,87,099","26,085 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2016-cars-bengaluru-10244192779/
+119,Bengaluru,2015, Hyundai i,SPORTZ 1.1 IRDE2 Manual,"₹4,11,399","31,383 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-bengaluru-1021686368/
+120,Bengaluru,2014, Hyundai Grand i,ASTA 1.2 KAPPA VTVT Manual,"₹5,07,465","37,487 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1029356064/
+121,Bengaluru,2016, Toyota Etios Liva,D 4D VD Manual,"₹6,26,399","73,638 km",1st Owner,Diesel,https://www.cars24.com/buy-used-toyota-etios-liva-2016-cars-bengaluru-1024586364/
+122,Bengaluru,2020, Mahindra XUV OO,W8 (O) DIESEL  AT Automatic,"₹14,72,699","23,734 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2020-cars-bengaluru-1025208960/
+123,Bengaluru,2019, Hyundai Elite i,1.2 SPORTZ PLUS DUAL TONE VTVT Manual,"₹8,48,299","26,288 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-bengaluru-10254296792/
+124,Bengaluru,2019, Maruti Celerio,ZXI OPT Manual,"₹5,45,699","21,646 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2019-cars-bengaluru-1025310506/
+125,Bengaluru,2017, Volkswagen Ameo,HIGHLINE 1.5L AT (D) Automatic,"₹6,19,399","91,038 km",1st Owner,Diesel,https://www.cars24.com/buy-used-volkswagen-ameo-2017-cars-bengaluru-1021650760/
+126,Bengaluru,2016, Maruti Alto K,VXI OPT Manual,"₹3,32,299","34,293 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1020548063/
+127,Bengaluru,2016, Datsun Redi Go,T (O) Manual,"₹2,91,999","51,334 km",1st Owner,Petrol,https://www.cars24.com/buy-used-datsun-redi-go-2016-cars-bengaluru-1029820164/
+128,Bengaluru,2017, Hyundai Eon,MAGNA PLUS OPTIONAL Manual,"₹3,66,899","77,900 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2017-cars-bengaluru-10238893791/
+129,Bengaluru,2014, Maruti Alto ,LXI Manual,"₹2,82,999","62,255 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2014-cars-bengaluru-10247097792/
+130,Bengaluru,2018, Renault Kwid,RXL Manual,"₹4,12,599","23,109 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-bengaluru-10231090717/
+131,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹7,10,199","14,212 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-10251099797/
+132,Bengaluru,2013, Hyundai i,SPORTZ 1.2 VTVT Manual,"₹4,43,599","72,656 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2013-cars-bengaluru-1024746761/
+133,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,01,299","42,699 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1025308368/
+134,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,15,599","47,294 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1027958069/
+135,Bengaluru,2015, Maruti Celerio,VXI Manual,"₹4,28,909","49,571 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2015-cars-bengaluru-1026696364/
+136,Bengaluru,2016, Hyundai Grand i,SPORTS 1.2 VTVT Manual,"₹5,01,599","25,403 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1027208762/
+137,Bengaluru,2016, Maruti Baleno,ALPHA DDIS 190 Manual,"₹6,99,399","68,229 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-bengaluru-10205097777/
+138,Bengaluru,2015, Hyundai Elite i,ASTA 1.2 Manual,"₹6,12,399","70,850 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-bengaluru-10284794772/
+139,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹7,02,399","28,306 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-1022986965/
+140,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,30,099","34,437 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1026380620/
+141,Bengaluru,2018, Ford Ecosport,1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,"₹10,81,499","29,350 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-bengaluru-10245294712/
+142,Bengaluru,2017, Honda WR-V,1.2 i-VTEC VX MT Manual,"₹8,09,799","28,854 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2017-cars-bengaluru-10245493799/
+143,Bengaluru,2019, Hyundai NEW SANTRO,1.1 MAGNA MT Manual,"₹5,11,699","68,727 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-bengaluru-1025380267/
+144,Bengaluru,2018, Hyundai Eon,SPORTZ Manual,"₹4,29,999","24,742 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2018-cars-bengaluru-1021702464/
+145,Bengaluru,2017, Honda City,V MT PETROL Manual,"₹7,64,599","53,541 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1029032863/
+146,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,54,199","44,931 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1024353466/
+147,Bengaluru,2018, Tata Tiago,XZA 1.2 REVOTRON Automatic,"₹5,60,499","59,067 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-bengaluru-1020896761/
+148,Bengaluru,2019, Tata Harrier,XZ 2.0L Kryotec Manual,"₹16,12,899","40,634 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-harrier-2019-cars-bengaluru-1117487864/
+149,Bengaluru,2018, Maruti Wagon R .,VXI AMT Automatic,"₹5,16,499","14,116 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-bengaluru-10255692778/
+150,Bengaluru,2020, Tata NEXON,XZ+ 1.2 Manual,"₹10,43,299","13,101 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-bengaluru-1023673061/
+151,Bengaluru,2017, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,36,355","58,724 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1025604160/
+152,Bengaluru,2019, Hyundai Grand i,SPORTZ DUAL TONE 1.2 VTVT Manual,"₹6,01,099","43,379 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2019-cars-bengaluru-1027876364/
+153,Bengaluru,2020, Maruti S PRESSO,VXI Manual,"₹4,88,599","8,304 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-bengaluru-1022642162/
+154,Bengaluru,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,93,299","72,128 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1029613063/
+155,Bengaluru,2018, Toyota YARIS,V MT Manual,"₹8,84,799","16,485 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-bengaluru-1027088301/
+156,Bengaluru,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,15,099","41,567 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1024036461/
+157,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹4,28,799","57,052 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1025656664/
+158,Bengaluru,2018, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,50,999","29,851 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2018-cars-bengaluru-1025740405/
+159,Bengaluru,2019, Maruti Ertiga,ZDI PLUS SHVS Manual,"₹11,54,599","45,575 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-ertiga-2019-cars-bengaluru-10295895776/
+160,Bengaluru,2019, MG HECTOR,SHARP 2.0 DIESEL Manual,"₹17,06,299","13,146 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1027099707/
+161,Bengaluru,2012, Maruti Ritz,VXI BS IV Manual,"₹3,60,799","60,268 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2012-cars-bengaluru-1027192609/
+162,Bengaluru,2020, Tata ALTROZ,XZ 1.2 Manual,"₹8,10,599","12,995 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-altroz-2020-cars-bengaluru-10265291774/
+163,Bengaluru,2019, Maruti Eeco,7 STR Manual,"₹4,54,299","16,009 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1026569147/
+164,Bengaluru,2014, Maruti Swift,VXI Manual,"₹4,93,499","60,056 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2014-cars-bengaluru-1026449768/
+165,Bengaluru,2016, Mahindra Scorpio,S2 Manual,"₹7,84,799","1,32,162 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-scorpio-2016-cars-bengaluru-1022222706/
+166,Bengaluru,2018, Maruti Swift,ZXI AMT Automatic,"₹7,20,999","21,603 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-bengaluru-1022062060/
+167,Bengaluru,2019, Maruti New  Wagon-R,VXI 1.0 Manual,"₹5,62,499","44,146 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-bengaluru-1025663763/
+168,Bengaluru,2019, Hyundai Elite i,1.2 MAGNA PLUS VTVT Manual,"₹7,33,199","10,466 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-bengaluru-10204995718/
+169,Bengaluru,2013, Renault Duster,RXE PETROL 104 Manual,"₹5,21,099","55,673 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-duster-2013-cars-bengaluru-10272995778/
+170,Bengaluru,2016, Maruti Swift Dzire,VXI Manual,"₹5,81,599","42,516 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-dzire-2016-cars-bengaluru-1022108363/
+171,Bengaluru,2010, Maruti Alto K,VXI Manual,"₹2,63,799","30,034 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2010-cars-bengaluru-1029776869/
+172,Bengaluru,2017, Maruti Alto ,VXI Manual,"₹3,00,199","38,078 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1029147502/
+173,Bengaluru,2014, Renault Duster,RXZ DIESEL 110 Manual,"₹6,83,399","75,602 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2014-cars-bengaluru-10212794798/
+174,Bengaluru,2019, Hyundai VENUE,1.0 Turbo GDI DCT AT SX+ DT Automatic,"₹11,75,699","28,397 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-bengaluru-1022642164/
+175,Bengaluru,2011, Hyundai i,MAGNA 1.2 KAPPA2 Manual,"₹3,13,599","81,853 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2011-cars-bengaluru-10242491793/
+176,Bengaluru,2011, Maruti Alto K,LXI Manual,"₹2,32,199","43,174 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2011-cars-bengaluru-10292894712/
+177,Bengaluru,2013, Maruti Alto ,LXI Manual,"₹2,70,299","46,716 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2013-cars-bengaluru-1026940263/
+178,Bengaluru,2013, Honda City,S MT PETROL Manual,"₹5,90,599","30,154 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2013-cars-bengaluru-1024854963/
+179,Bengaluru,2009, Toyota Innova,2.5 V 8 STR Manual,"₹6,34,199","2,06,148 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2009-cars-bengaluru-1029286221/
+180,Bengaluru,2019, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,85,299","16,513 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2019-cars-bengaluru-10274691797/
+181,Bengaluru,2017, Maruti Celerio,VXI Manual,"₹5,09,999","5,597 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-bengaluru-10292593773/
+182,Bengaluru,2017, Maruti Alto ,LXI Manual,"₹3,33,699","15,223 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1022890264/
+183,Bengaluru,2020, Skoda Rapid,ACTIVE 1.0 TSI Manual,"₹10,77,199","2,927 km",1st Owner,Petrol,https://www.cars24.com/buy-used-skoda-rapid-2020-cars-bengaluru-1022636166/
+184,Bengaluru,2020, Maruti Vitara Brezza,ZXI + ,"₹10,22,699","21,789 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-bengaluru-1024201569/
+185,Bengaluru,2019, Renault TRIBER,1.0 RXT Manual,"₹6,70,799","38,651 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-triber-2019-cars-bengaluru-10249791718/
+186,Bengaluru,2010, Maruti A Star,VXI Manual,"₹2,51,599","1,04,409 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-a-star-2010-cars-bengaluru-1027297241/
+187,Bengaluru,2018, Ford Ecosport,1.5 TITANIUM SIGNATURE TI VCT (SUNROOF) Manual,"₹10,58,499","13,696 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2018-cars-bengaluru-1027265206/
+188,Bengaluru,2016, Hyundai i,SPORTZ 1.1 IRDE2 Manual,"₹4,34,499","21,844 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2016-cars-bengaluru-10259198776/
+189,Bengaluru,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,77,299","9,227 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1028582409/
+190,Bengaluru,2019, Tata NEXON,XZ+ 1.5 Manual,"₹10,79,899","23,753 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-nexon-2019-cars-bengaluru-10251393719/
+191,Bengaluru,2019, Hyundai VENUE,SX(O) CRDi Manual,"₹10,65,049","52,602 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-bengaluru-1026804668/
+192,Bengaluru,2013, Hyundai i,ERA 1.1 IRDE Manual,"₹3,25,199","65,554 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2013-cars-bengaluru-10213498773/
+193,Bengaluru,2018, Tata Tiago,XZA 1.2 REVOTRON Automatic,"₹5,77,799","51,528 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2018-cars-bengaluru-10227990710/
+194,Bengaluru,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,71,799","12,831 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1022897862/
+195,Bengaluru,2012, Maruti Wagon R .,VXI Manual,"₹3,52,299","56,939 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2012-cars-bengaluru-1027046865/
+196,Bengaluru,2014, Hyundai Grand i,ASTA 1.2 (O) VTVT Manual,"₹4,86,399","42,446 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1029686963/
+197,Bengaluru,2020, Hyundai GRAND I NIOS,ASTA PETROL AMT Automatic,"₹8,45,599","5,132 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2020-cars-bengaluru-1020134062/
+198,Bengaluru,2016, Hyundai Eon,ERA PLUS Manual,"₹3,40,699","18,380 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-bengaluru-1026472463/
+199,Bengaluru,2014, Hyundai Eon,MAGNA PLUS Manual,"₹2,97,599","54,775 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2014-cars-bengaluru-1022560562/
+200,Bengaluru,2017, Tata Tiago,XM 1.2 REVOTRON Manual,"₹4,96,999","14,825 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1023830169/
+201,Bengaluru,2021, Hyundai Creta,1.4 SX(O) TURBO GDI DCT Automatic,"₹20,91,799","8,595 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2021-cars-bengaluru-1023620968/
+202,Bengaluru,2014, Maruti Celerio,VXI Manual,"₹4,32,499","62,706 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-bengaluru-1021406664/
+203,Bengaluru,2018, Maruti Baleno,ZETA 1.2 K12 Manual,"₹7,60,499","7,642 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2018-cars-bengaluru-1029396060/
+204,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,93,955","48,843 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1029476065/
+205,Bengaluru,2015, Renault Kwid,RXT Manual,"₹3,54,083","25,437 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2015-cars-bengaluru-10236195777/
+206,Bengaluru,2015, Tata Nano,XT TWIST Manual,"₹1,98,399","35,957 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nano-2015-cars-bengaluru-1023672068/
+207,Bengaluru,2020, Mahindra XUV OO,W8 (O) DIESEL  AT Automatic,"₹13,66,099","25,164 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv-3oo-2020-cars-bengaluru-1025071464/
+208,Bengaluru,2015, Honda Brio,1.2 S MT I VTEC Manual,"₹4,27,799","42,562 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2015-cars-bengaluru-1028739701/
+209,Bengaluru,2019, Hyundai VENUE,1.0 TURBO GDI SX+ AT Automatic,"₹11,66,699","21,458 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-bengaluru-1027350064/
+210,Bengaluru,2018, Hyundai Creta,1.6 SX VTVT Manual,"₹11,72,899","19,669 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2018-cars-bengaluru-1029470269/
+211,Bengaluru,2021, Hyundai NEW I,ASTA (O) 1.2 MT ,"₹9,72,499","7,344 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-i20-2021-cars-bengaluru-1024970167/
+212,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,68,599","56,780 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1021986169/
+213,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹6,84,799","41,287 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-1024980960/
+214,Bengaluru,2015, Honda Jazz,1.2 V MT Manual,"₹4,88,499","93,074 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2015-cars-bengaluru-1028211947/
+215,Bengaluru,2019, Hyundai Elite i,1.2 MAGNA PLUS VTVT Manual,"₹7,04,499","13,956 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2019-cars-bengaluru-1089464806/
+216,Bengaluru,2013, Hyundai i,SPORTZ 1.2 KAPPA2 Manual,"₹3,62,799","50,681 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2013-cars-bengaluru-1020536769/
+217,Bengaluru,2013, Ford Figo,1.2 TITANIUM DURATEC Manual,"₹4,22,299","28,022 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-2013-cars-bengaluru-10222498777/
+218,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,00,699","58,449 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1022375321/
+219,Bengaluru,2016, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,25,599","45,873 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-bengaluru-1024788864/
+220,Bengaluru,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,91,699","28,255 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1028188207/
+221,Bengaluru,2021, Maruti S Cross,ZETA SHVS PETROL Manual,"₹10,81,499","14,298 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-cross-2021-cars-bengaluru-10225092792/
+222,Bengaluru,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,37,899","29,034 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-bengaluru-1023838369/
+223,Bengaluru,2012, Maruti Wagon R .,VXI Manual,"₹3,49,299","53,628 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2012-cars-bengaluru-1024069509/
+224,Bengaluru,2017, Hyundai Elite i,ASTA 1.2 (O) Manual,"₹7,25,599","40,853 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-bengaluru-10205999775/
+225,Bengaluru,2017, Honda City,V MT PETROL Manual,"₹8,64,999","33,735 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1020298265/
+226,Bengaluru,2017, Ford Ecosport,1.0 ECOBOOST TITANIUM + ,"₹8,95,899","21,429 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-bengaluru-1023844961/
+227,Bengaluru,2020, Volkswagen Vento,HIGHLINE PLUS 1.0 TSI AT Automatic,"₹13,79,599","8,896 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2020-cars-bengaluru-1022465705/
+228,Bengaluru,2018, Hyundai Elite i,ASTA 1.2 Manual,"₹7,89,599","18,796 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2018-cars-bengaluru-1028620867/
+229,Bengaluru,2010, Maruti Wagon R .,VXI Manual,"₹3,11,999","69,786 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2010-cars-bengaluru-10201091792/
+230,Bengaluru,2015, Ford Figo,1.2 EXI DURATEC Manual,"₹3,54,899","50,751 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-figo-2015-cars-bengaluru-1025695465/
+231,Bengaluru,2012, Maruti Alto K,VXI Manual,"₹3,00,499","59,700 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2012-cars-bengaluru-10243899790/
+232,Bengaluru,2018, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,43,699","55,458 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-bengaluru-1022412369/
+233,Bengaluru,2020, Toyota YARIS,VX CVT Automatic,"₹12,07,599","6,494 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2020-cars-bengaluru-10224698772/
+234,Bengaluru,2018, Hyundai NEW SANTRO,ERA 1.1 Manual,"₹4,57,899","19,797 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-bengaluru-10209392712/
+235,Bengaluru,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,58,999","31,126 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-bengaluru-1023112361/
+236,Bengaluru,2012, Maruti Wagon R .,VXI Manual,"₹3,39,199","81,614 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2012-cars-bengaluru-1028493263/
+237,Bengaluru,2018, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,97,899","31,845 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2018-cars-bengaluru-1020558168/
+238,Bengaluru,2016, Maruti Alto K,VXI AMT Automatic,"₹4,12,399","57,468 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-10234695715/
+239,Bengaluru,2018, Maruti Alto K,VXI (O) AMT Automatic,"₹4,66,599","13,700 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-10272398718/
+240,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,25,699","66,077 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1022731460/
+241,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹4,25,399","33,398 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1023207702/
+242,Bengaluru,2017, Maruti Alto ,LXI OPT Manual,"₹3,72,899","27,535 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-10279198799/
+243,Bengaluru,2017, Maruti IGNIS,ALPHA 1.2 K12 DUAL TONE Manual,"₹5,44,399","1,02,825 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2017-cars-bengaluru-1029423646/
+244,Bengaluru,2017, Maruti Alto K,VXI (O) AMT Automatic,"₹4,34,299","23,789 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-bengaluru-10244398771/
+245,Bengaluru,2020, Tata NEXON,XZA+ SUNROOF 1.2 RTN Automatic,"₹13,23,299","3,702 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-nexon-2020-cars-bengaluru-10260196797/
+246,Bengaluru,2010, Honda City,S MT PETROL Manual,"₹4,14,499","89,104 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2010-cars-bengaluru-1023720569/
+247,Bengaluru,2019, Hyundai VENUE,SX(O) CRDi Manual,"₹11,61,299","18,078 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-bengaluru-1021292862/
+248,Bengaluru,2019, KIA SELTOS,GTX 1.4 GDI AT PETROL Automatic,"₹16,44,799","15,504 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2019-cars-bengaluru-1024736545/
+249,Bengaluru,2013, Maruti Swift,VXI Manual,"₹4,40,899","62,191 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2013-cars-bengaluru-10262398797/
+250,Bengaluru,2019, Hyundai Creta,1.6 SX (O) VTVT Manual,"₹12,14,499","60,290 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-creta-2019-cars-bengaluru-1021952807/
+251,Bengaluru,2014, Honda Brio,1.2 VX MT I VTEC Manual,"₹3,90,099","41,966 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2014-cars-bengaluru-1027628360/
+252,Bengaluru,2014, Hyundai i,SPORTZ 1.2 VTVT Manual,"₹4,87,499","89,272 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-bengaluru-1027096346/
+253,Bengaluru,2015, Ford Ecosport,1.0 ECOBOOST TITANIUM Manual,"₹5,91,099","1,49,311 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2015-cars-bengaluru-1029629440/
+254,Bengaluru,2014, Maruti Celerio,VXI AMT Automatic,"₹3,86,699","1,51,697 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-bengaluru-1028799341/
+255,Bengaluru,2017, Hyundai Elite i,ASTA 1.2 (O) Manual,"₹6,85,199","59,278 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-bengaluru-1023090166/
+256,Bengaluru,2020, Honda Amaze,1.2 V MT I-VTEC Manual,"₹6,38,799","12,962 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2020-cars-bengaluru-10272397716/
+257,Bengaluru,2015, Hyundai Eon,D LITE PLUS Manual,"₹3,04,099","54,182 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2015-cars-bengaluru-1028195763/
+258,Bengaluru,2015, Renault Duster,RXZ PACK DIESEL 110 Manual,"₹7,54,599","34,879 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2015-cars-bengaluru-10258494718/
+259,Bengaluru,2020, Hyundai Creta,E Manual,"₹13,08,899","31,432 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2020-cars-bengaluru-10236594717/
+260,Bengaluru,2014, Maruti Ertiga,VXI Anniversary Edition Manual,"₹7,39,099","49,021 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ertiga-2014-cars-bengaluru-1020656265/
+261,Bengaluru,2012, Honda City,S MT PETROL Manual,"₹5,49,399","47,230 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2012-cars-bengaluru-1027562364/
+262,Bengaluru,2014, Nissan Terrano,XL PLUS 85 PS DEISEL Manual,"₹6,44,299","74,866 km",1st Owner,Diesel,https://www.cars24.com/buy-used-nissan-terrano-2014-cars-bengaluru-10242595793/
+263,Bengaluru,2019, Maruti New  Wagon-R,VXI 1.2L Manual,"₹5,93,699","20,745 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-bengaluru-1029746768/
+264,Bengaluru,2015, Hyundai i,MAGNA 1.1 IRDE2 Manual,"₹4,03,899","20,439 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2015-cars-bengaluru-1022310364/
+265,Bengaluru,2020, KIA SONET,GTX PLUS DCT 1.0 ,"₹14,42,099","6,804 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-sonet-2020-cars-bengaluru-10264995792/
+266,Bengaluru,2014, Honda Amaze,1.2 EXMT I VTEC Manual,"₹4,58,199","44,373 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2014-cars-bengaluru-1021627562/
+267,Bengaluru,2017, Maruti Celerio,VXI Manual,"₹4,30,572","29,343 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-bengaluru-1022715167/
+268,Bengaluru,2014, Maruti Ritz,VXI BS IV Manual,"₹4,09,699","52,168 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-bengaluru-10277097772/
+269,Bengaluru,2016, Renault Kwid,RXL Manual,"₹3,35,499","21,739 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-bengaluru-1024313166/
+270,Bengaluru,2016, Hyundai Elite i,SPORTZ 1.2 Manual,"₹5,99,799","23,457 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-bengaluru-1028462966/
+271,Bengaluru,2016, Renault Kwid,RXL Manual,"₹3,37,999","34,036 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-bengaluru-1022112869/
+272,Bengaluru,2011, Maruti Alto K,VXI Manual,"₹2,90,799","50,343 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2011-cars-bengaluru-1026506769/
+273,Bengaluru,2014, Hyundai Xcent,S 1.2 Manual,"₹4,76,099","53,114 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-xcent-2014-cars-bengaluru-10213392775/
+274,Bengaluru,2012, Hyundai Verna,FLUIDIC 1.6 SX VTVT Manual,"₹5,22,099","89,993 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2012-cars-bengaluru-10202697771/
+275,Bengaluru,2019, MG HECTOR,SHARP 2.0 DIESEL Manual,"₹18,80,799","10,258 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mg-hector-2019-cars-bengaluru-1022683063/
+276,Bengaluru,2017, Tata Tiago,XM 1.2 REVOTRON Manual,"₹5,07,499","22,029 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1025846667/
+277,Bengaluru,2016, Hyundai Verna,FLUIDIC 1.4 VTVT Manual,"₹6,77,399","46,194 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2016-cars-bengaluru-10209792718/
+278,Bengaluru,2019, Hyundai VENUE,1.4 CRDI MT SX Manual,"₹9,87,799","49,093 km",1st Owner,Diesel,https://www.cars24.com/buy-used-hyundai-venue-2019-cars-bengaluru-1020734264/
+279,Bengaluru,2016, Toyota Corolla Altis,GL Manual,"₹11,76,399","71,783 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-corolla-altis-2016-cars-bengaluru-10259192716/
+280,Bengaluru,2020, KIA SELTOS,HTK 1.5 PETROL Manual,"₹12,00,199","12,919 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-seltos-2020-cars-bengaluru-10246897773/
+281,Bengaluru,2017, Mahindra XUV,W6 4X2 Manual,"₹12,15,099","52,728 km",1st Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-bengaluru-1026690367/
+282,Bengaluru,2019, Renault Duster,RXS 85 PS Manual,"₹9,61,899","44,793 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2019-cars-bengaluru-1021752967/
+283,Bengaluru,2017, Maruti Alto ,LXI Manual,"₹3,33,699","30,122 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1028916765/
+284,Bengaluru,2016, Honda BR-V,1.5 i-VTEC VX Manual,"₹7,89,399","62,105 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-br-v-2016-cars-bengaluru-10243693716/
+285,Bengaluru,2016, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,04,099","37,086 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2016-cars-bengaluru-1020316761/
+286,Bengaluru,2020, KIA SELTOS,HTX 1.5 DIESEL Manual,"₹16,15,299","25,084 km",1st Owner,Diesel,https://www.cars24.com/buy-used-kia-seltos-2020-cars-bengaluru-10215190718/
+287,Bengaluru,2017, Maruti Alto ,VXI Manual,"₹3,15,999","39,323 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1025625963/
+288,Bengaluru,2014, Hyundai i,SPORTZ 1.1 IRDE2 Manual,"₹3,77,799","86,232 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2014-cars-bengaluru-1026034868/
+289,Bengaluru,2017, Mahindra XUV,W6 4X2 Manual,"₹12,14,099","61,078 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-mahindra-xuv500-2017-cars-bengaluru-1029504464/
+290,Bengaluru,2016, Hyundai Elite i,SPORTZ 1.2 Manual,"₹5,91,399","97,516 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-bengaluru-1025144365/
+291,Bengaluru,2012, Honda City,V MT PETROL Manual,"₹5,49,999","68,473 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2012-cars-bengaluru-1024190562/
+292,Bengaluru,2016, Honda Jazz,1.2 S MT Manual,"₹6,49,399","19,613 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1027762267/
+293,Bengaluru,2017, Tata Tiago,XM 1.2 REVOTRON Manual,"₹5,13,899","19,389 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1021806667/
+294,Bengaluru,2019, Maruti Alto K,VXI Manual,"₹3,60,299","15,226 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-bengaluru-1028238947/
+295,Bengaluru,2018, Maruti Wagon R .,VXI AMT Automatic,"₹5,53,599","2,466 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-bengaluru-1024026168/
+296,Bengaluru,2015, Maruti Swift,VXI Manual,"₹5,22,999","50,156 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2015-cars-bengaluru-1026296664/
+297,Bengaluru,2015, Hyundai i Active,1.2 S Manual,"₹5,51,899","1,03,742 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-bengaluru-1026812504/
+298,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,67,399","44,982 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1023287907/
+299,Bengaluru,2019, Renault Kwid,RXL Manual,"₹4,20,999","17,438 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2019-cars-bengaluru-10235192717/
+300,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹4,07,099","16,082 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1021574709/
+301,Bengaluru,2018, Hyundai Grand i,MAGNA 1.2 KAPPA VTVT Manual,"₹4,81,399","35,833 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2018-cars-bengaluru-1021274064/
+302,Bengaluru,2016, Maruti Celerio,ZXI AMT Automatic,"₹4,38,999","77,196 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2016-cars-bengaluru-1021312066/
+303,Bengaluru,2015, Renault Duster,RXL 110PS EXPLORER Manual,"₹6,94,899","94,468 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2015-cars-bengaluru-10236597777/
+304,Bengaluru,2012, Hyundai Eon,ERA PLUS Manual,"₹2,86,199","47,477 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2012-cars-bengaluru-10284299773/
+305,Bengaluru,2016, Hyundai Eon,SPORTZ Manual,"₹3,64,499","19,087 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-bengaluru-10241293714/
+306,Bengaluru,2016, Honda Jazz,1.2 S MT Manual,"₹5,92,299","45,476 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1028315868/
+307,Bengaluru,2015, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,97,199","20,631 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1026814363/
+308,Bengaluru,2017, Maruti Celerio,VXI AMT Automatic,"₹4,71,899","51,061 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2017-cars-bengaluru-1025540860/
+309,Bengaluru,2019, Maruti New  Wagon-R,VXI 1.0 Manual,"₹5,69,899","28,384 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-new--wagon-r-2019-cars-bengaluru-1023476467/
+310,Bengaluru,2016, Hyundai i,SPORTZ 1.1 IRDE2 Manual,"₹4,34,499","48,066 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i10-2016-cars-bengaluru-1026948965/
+311,Bengaluru,2017, Maruti Alto ,VXI Manual,"₹3,15,999","27,828 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1020416567/
+312,Bengaluru,2016, Hyundai Eon,MAGNA PLUS Manual,"₹3,02,999","70,486 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-eon-2016-cars-bengaluru-1020422763/
+313,Bengaluru,2016, Tata Tiago,XM 1.2 REVOTRON Manual,"₹5,05,799","43,388 km",1st Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2016-cars-bengaluru-1029773962/
+314,Bengaluru,2018, Hyundai Verna,EX 1.6 VTVT AT Automatic,"₹9,77,199","31,462 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2018-cars-bengaluru-10233390718/
+315,Bengaluru,2015, Datsun Go,T Manual,"₹2,77,399","68,882 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-datsun-go-2015-cars-bengaluru-1024312266/
+316,Bengaluru,2021, Maruti S PRESSO,VXI Manual,"₹5,02,299","1,073 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2021-cars-bengaluru-1027590064/
+317,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,09,499","49,166 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1026994745/
+318,Bengaluru,2014, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,65,825","53,732 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2014-cars-bengaluru-1020452565/
+319,Bengaluru,2018, Renault Kwid,RXL Manual,"₹3,77,599","41,252 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-bengaluru-1029902365/
+320,Bengaluru,2016, Renault Kwid,RXL Manual,"₹3,44,199","46,725 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2016-cars-bengaluru-10262398795/
+321,Bengaluru,2018, Renault Kwid,RXL Manual,"₹3,75,199","71,954 km",1st Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2018-cars-bengaluru-1029124760/
+322,Bengaluru,2018, Hyundai NEW SANTRO,ASTA 1.1 MT Manual,"₹5,65,499","8,331 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2018-cars-bengaluru-1028066909/
+323,Bengaluru,2019, Hyundai NEW SANTRO,1.1 SPORTS AMT Automatic,"₹5,86,299","9,782 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-new-santro-2019-cars-bengaluru-1024283565/
+324,Bengaluru,2020, Hyundai VENUE,SX 1.0 GDI IMT Manual,"₹11,14,299","14,463 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-venue-2020-cars-bengaluru-1024863964/
+325,Bengaluru,2015, Maruti Alto ,LXI Manual,"₹2,99,899","65,903 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2015-cars-bengaluru-10234799792/
+326,Bengaluru,2020, Maruti Vitara Brezza,VXI Manual,"₹8,83,399","48,224 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-vitara-brezza-2020-cars-bengaluru-10239392719/
+327,Bengaluru,2015, Hyundai i Active,1.2 S Manual,"₹6,15,899","12,657 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2015-cars-bengaluru-1025970661/
+328,Bengaluru,2013, Maruti Alto K,VXI Manual,"₹2,97,199","54,968 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2013-cars-bengaluru-1025565960/
+329,Bengaluru,2016, Hyundai Elite i,ASTA 1.2 Manual,"₹6,65,099","28,693 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-bengaluru-1021898660/
+330,Bengaluru,2013, Honda Amaze,1.2 VXMT I VTEC Manual,"₹4,25,199","71,907 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-honda-amaze-2013-cars-bengaluru-10282798775/
+331,Bengaluru,2014, Maruti Ritz,VXI BS IV Manual,"₹3,95,699","1,08,378 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2014-cars-bengaluru-1028827048/
+332,Bengaluru,2015, Hyundai Grand i,ASTA 1.2 KAPPA VTVT Manual,"₹5,02,399","41,590 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1025460367/
+333,Bengaluru,2019, Ford Ecosport,1.5 TITANIUM TI VCT Manual,"₹9,13,199","30,842 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2019-cars-bengaluru-1020206567/
+334,Bengaluru,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,17,899","18,335 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-bengaluru-1028868503/
+335,Bengaluru,2019, Honda WR-V,1.2 i-VTEC VX MT Manual,"₹8,22,799","31,861 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-wr-v-2019-cars-bengaluru-1027314569/
+336,Bengaluru,2017, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹4,81,599","26,341 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1023685665/
+337,Bengaluru,2017, Hyundai Elite i,ASTA 1.2 DUAL TONE Manual,"₹6,82,499","39,920 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2017-cars-bengaluru-10253697771/
+338,Bengaluru,2012, Maruti Alto K,VXI Manual,"₹2,93,599","63,580 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2012-cars-bengaluru-1025652162/
+339,Bengaluru,2020, MG HECTOR PLUS,SHARP HYBRID PETROL Manual,"₹19,36,399","6,774 km",1st Owner,Petrol,https://www.cars24.com/buy-used-mg-hector-plus-2020-cars-bengaluru-1022655064/
+340,Bengaluru,2017, Tata Hexa,Varicor 400 XTA Automatic,"₹13,21,399","84,534 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2017-cars-bengaluru-1029990967/
+341,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹4,39,399","31,238 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1029818161/
+342,Bengaluru,2015, Maruti Alto K,VXI Manual,"₹3,40,299","22,694 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2015-cars-bengaluru-1028700003/
+343,Bengaluru,2015, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹4,84,699","23,413 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1027751366/
+344,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,22,799","26,907 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-10202092779/
+345,Bengaluru,2019, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,73,999","22,085 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1020908965/
+346,Bengaluru,2018, Maruti IGNIS,ZETA 1.2 K12 Manual,"₹5,90,868","22,384 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-bengaluru-10287199792/
+347,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,16,799","47,077 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1025664162/
+348,Bengaluru,2015, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,04,499","37,149 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2015-cars-bengaluru-1078780368/
+349,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹6,95,299","35,949 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-1027010468/
+350,Bengaluru,2014, Maruti Celerio,VXI Manual,"₹3,46,499","1,67,730 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2014-cars-bengaluru-1022802504/
+351,Bengaluru,2013, Maruti Alto ,LXI OPT Manual,"₹3,02,499","59,664 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2013-cars-bengaluru-1029040165/
+352,Bengaluru,2015, Hyundai Elite i,ASTA 1.2 Manual,"₹6,49,799","58,292 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2015-cars-bengaluru-1028040060/
+353,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹6,97,099","22,899 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-1021036069/
+354,Bengaluru,2016, Honda Jazz,1.2 V MT Manual,"₹6,56,899","62,316 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1025228068/
+355,Bengaluru,2017, Honda Jazz,1.2 V AT Automatic,"₹7,24,499","56,167 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2017-cars-bengaluru-10260593777/
+356,Bengaluru,2013, Maruti Wagon R .,VXI Manual,"₹3,97,099","47,744 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2013-cars-bengaluru-1020420768/
+357,Bengaluru,2018, Maruti Eeco,5 STR WITH AC PLUSHTR Manual,"₹4,24,799","32,381 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2018-cars-bengaluru-1021060020/
+358,Bengaluru,2016, Hyundai Elite i,ASTA 1.2 (O) Manual,"₹6,70,099","44,580 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-elite-i20-2016-cars-bengaluru-1023820964/
+359,Bengaluru,2020, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹6,28,699","27,229 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2020-cars-bengaluru-1028773961/
+360,Bengaluru,2019, Maruti Ciaz,ALPHA 1.5 MT VTVT SHVS Manual,"₹9,62,199","28,777 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ciaz-2019-cars-bengaluru-1021464667/
+361,Bengaluru,2018, Maruti Celerio,ZXI Manual,"₹4,97,699","61,156 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-celerio-2018-cars-bengaluru-1026280362/
+362,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹4,06,899","44,771 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1029956569/
+363,Bengaluru,2019, Hyundai GRAND I NIOS,SPORTZ PETROL Manual,"₹6,80,999","16,674 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-nios-2019-cars-bengaluru-1028876868/
+364,Bengaluru,2018, Maruti Dzire,VXI Manual,"₹6,57,899","71,937 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-dzire-2018-cars-bengaluru-1027124068/
+365,Bengaluru,2017, Tata Tiago,XZ 1.2 REVOTRON Manual,"₹5,08,879","69,295 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-tata-tiago-2017-cars-bengaluru-1023853864/
+366,Bengaluru,2017, Renault Duster,RXZ DIESEL 110 Manual,"₹8,44,499","96,948 km",1st Owner,Diesel,https://www.cars24.com/buy-used-renault-duster-2017-cars-bengaluru-1028817843/
+367,Bengaluru,2016, Maruti Alto K,VXI AMT Automatic,"₹4,06,799","21,535 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1023874661/
+368,Bengaluru,2018, Maruti Alto K,VXI Manual,"₹4,14,599","10,885 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-1025582164/
+369,Bengaluru,2015, Renault Kwid,RXT Manual,"₹3,19,799","66,655 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2015-cars-bengaluru-1021628662/
+370,Bengaluru,2019, Maruti Alto K,VXI AMT Automatic,"₹4,98,599","9,025 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2019-cars-bengaluru-1020156162/
+371,Bengaluru,2016, Hyundai Grand i,SPORTS 1.2 VTVT Manual,"₹5,01,599","35,352 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1023395265/
+372,Bengaluru,2017, Renault Kwid,CLIMBER 1.0 AT Automatic,"₹4,72,799","31,704 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-renault-kwid-2017-cars-bengaluru-1029266067/
+373,Bengaluru,2016, Maruti Baleno,ZETA 1.2 K12 Manual,"₹6,35,599","59,043 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2016-cars-bengaluru-1020805963/
+374,Bengaluru,2017, Maruti S Cross,ALPHA SHVS Manual,"₹11,13,599","64,010 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-s-cross-2017-cars-bengaluru-1024363264/
+375,Bengaluru,2014, Maruti Alto K,VXI Manual,"₹3,48,199","60,859 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2014-cars-bengaluru-1025984168/
+376,Bengaluru,2017, Hyundai i Active,1.2 S Manual,"₹6,38,999","39,231 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-i20-active-2017-cars-bengaluru-1027007468/
+377,Bengaluru,2017, Maruti Alto ,LXI Manual,"₹3,33,699","42,804 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1026592468/
+378,Bengaluru,2016, Honda Jazz,1.2 V MT Manual,"₹6,84,199","22,914 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1025852769/
+379,Bengaluru,2016, Honda Jazz,1.2 V MT Manual,"₹7,14,499","16,256 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-jazz-2016-cars-bengaluru-1022870163/
+380,Bengaluru,2014, Maruti Wagon R .,VXI Manual,"₹3,82,399","51,840 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2014-cars-bengaluru-1028578726/
+381,Bengaluru,2017, Maruti Alto ,LXI Manual,"₹3,33,699","44,090 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2017-cars-bengaluru-1022885569/
+382,Bengaluru,2012, Maruti Alto K,VXI Manual,"₹3,00,699","55,122 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2012-cars-bengaluru-1020650464/
+383,Bengaluru,2016, Hyundai Grand i,SPORTZ 1.2 KAPPA VTVT Manual,"₹5,39,099","29,328 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2016-cars-bengaluru-1025764060/
+384,Bengaluru,2016, Volkswagen Vento,HIGHLINE 1.2 TSI AT Automatic,"₹7,92,999","76,801 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-vento-2016-cars-bengaluru-1028144868/
+385,Bengaluru,2017, Honda City,VX MT PETROL Manual,"₹8,34,499","46,539 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2017-cars-bengaluru-1025972067/
+386,Bengaluru,2017, Ford Ecosport,1.0 ECOBOOST TITANIUM OPT Manual,"₹8,08,599","26,743 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-ecosport-2017-cars-bengaluru-1024746346/
+387,Bengaluru,2016, Maruti Alto K,VXI Manual,"₹3,51,699","48,418 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1020772462/
+388,Bengaluru,2017, Maruti Baleno,DELTA 1.2 K12 Manual,"₹6,53,499","34,922 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-bengaluru-1023360368/
+389,Bengaluru,2018, Maruti Alto K,VXI Manual,"₹4,20,399","8,673 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-1024330869/
+390,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹3,98,899","70,052 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1029982560/
+391,Bengaluru,2018, Maruti Alto ,VXI Manual,"₹3,23,199","37,065 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2018-cars-bengaluru-1021494664/
+392,Bengaluru,2016, Maruti Alto K,VXI Manual,"₹3,64,299","27,380 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1021028963/
+393,Bengaluru,2018, Maruti Wagon R .,VXI Manual,"₹4,15,099","75,304 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-bengaluru-1020335209/
+394,Bengaluru,2017, Maruti Alto K,VXI OPT Manual,"₹3,92,299","20,218 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2017-cars-bengaluru-1020290167/
+395,Bengaluru,2020, Maruti S PRESSO,VXI PLUS Manual,"₹4,94,199","39,815 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2020-cars-bengaluru-1027734963/
+396,Bengaluru,2018, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,74,599","26,721 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2018-cars-bengaluru-1025496867/
+397,Bengaluru,2017, Hyundai Grand i,ASTA 1.2 VTVT Manual,"₹5,72,899","31,225 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-hyundai-grand-i10-2017-cars-bengaluru-1026764868/
+398,Bengaluru,2018, Maruti IGNIS,ZETA 1.2 K12 Manual,"₹5,93,699","23,360 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ignis-2018-cars-bengaluru-1025406664/
+399,Bengaluru,2016, Maruti Wagon R .,VXI Manual,"₹4,37,199","38,756 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-bengaluru-1022818360/
+400,Bengaluru,2018, Maruti Alto K,VXI Manual,"₹4,04,327","30,178 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-1029432660/
+401,Bengaluru,2016, Maruti Alto K,VXI AMT Automatic,"₹4,00,999","39,595 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2016-cars-bengaluru-1021452765/
+402,Bengaluru,2018, Maruti Alto K,VXI Manual,"₹4,10,599","21,723 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-k10-2018-cars-bengaluru-1022350866/
+403,Bengaluru,2015, Maruti Wagon R .,VXI Manual,"₹4,20,599","50,444 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2015-cars-bengaluru-1020942460/
+404,Bengaluru,2019, Maruti S PRESSO,VXI Manual,"₹4,16,699","37,967 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-s-presso-2019-cars-bengaluru-1026904465/
+405,Bengaluru,2021, Maruti Alto,VXI PLUS Manual,"₹4,52,999","8,062 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2021-cars-bengaluru-1021742865/
+406,Bengaluru,2018, Maruti Wagon R .,VXI Manual,"₹4,99,799","30,889 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2018-cars-bengaluru-2490756361/
+407,Bengaluru,2016, Maruti Wagon R .,VXI AMT Automatic,"₹4,37,799","72,711 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-bengaluru-1025936265/
+408,Bengaluru,2018, Ford FREESTYLE,TITANIUM 1.2 TI-VCT MT Manual,"₹6,54,466","37,791 km",1st Owner,Petrol,https://www.cars24.com/buy-used-ford-freestyle-2018-cars-bengaluru-1029702860/
+409,Bengaluru,2020, Maruti Alto,LXI Manual,"₹4,13,999","12,428 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-2020-cars-bengaluru-1026080169/
+410,Bengaluru,2018, Toyota YARIS,V CVT Automatic,"₹8,73,899","59,673 km",1st Owner,Petrol,https://www.cars24.com/buy-used-toyota-yaris-2018-cars-bengaluru-1025293706/
+411,Bengaluru,2009, Maruti Wagon R,LXI Manual,"₹2,44,999","47,292 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-2009-cars-bengaluru-1026369648/
+412,Bengaluru,2019, Volkswagen Polo,Trendline 1.0 L Petrol Manual,"₹5,82,299","20,017 km",1st Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2019-cars-bengaluru-1028506640/
+413,Bengaluru,2020, KIA SONET,HTK PLUS ,"₹10,68,099","3,210 km",1st Owner,Petrol,https://www.cars24.com/buy-used-kia-sonet-2020-cars-bengaluru-1023510660/
+414,Bengaluru,2012, Maruti Alto ,LXI Manual,"₹2,49,199","38,094 km",3rd Owner,Petrol,https://www.cars24.com/buy-used-maruti-alto-800-2012-cars-bengaluru-1020270266/
+415,Bengaluru,2017, Hyundai Creta,1.6 CRDI SX PLUS AUTO Automatic,"₹12,28,299","22,475 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-creta-2017-cars-bengaluru-1025025664/
+416,Bengaluru,2018, Tata Hexa,Varicor 400 XTA Automatic,"₹17,41,099","15,278 km",1st Owner,Diesel,https://www.cars24.com/buy-used-tata-hexa-2018-cars-bengaluru-10241091799/
+417,Bengaluru,2018, Maruti Swift,VDI Manual,"₹6,77,599","77,606 km",1st Owner,Diesel,https://www.cars24.com/buy-used-maruti-swift-2018-cars-bengaluru-10222991798/
+418,Bengaluru,2014, Toyota Innova,2.5 VX 8 STR BS IV Manual,"₹11,02,099","1,87,671 km",2nd Owner,Diesel,https://www.cars24.com/buy-used-toyota-innova-2014-cars-bengaluru-1022536625/
+419,Bengaluru,2013, Volkswagen Polo,GT TSI 1.2 PETROL AT Automatic,"₹6,55,899","69,780 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-volkswagen-polo-2013-cars-bengaluru-1026828863/
+420,Bengaluru,2010, Maruti Ritz,VXI ABS Manual,"₹2,96,699","1,43,272 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-ritz-2010-cars-bengaluru-1023499248/
+421,Bengaluru,2013, Honda Brio,1.2 V AT Automatic,"₹5,10,999","48,494 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-brio-2013-cars-bengaluru-1021738966/
+422,Bengaluru,2014, Hyundai i,SPORTZ 1.4 CRDI Manual,"₹5,26,599","47,240 km",3rd Owner,Diesel,https://www.cars24.com/buy-used-hyundai-i20-2014-cars-bengaluru-1025510766/
+423,Bengaluru,2015, Hyundai Verna,FLUIDIC 1.6 VTVT S (O)  MT Manual,"₹7,04,499","62,844 km",1st Owner,Petrol,https://www.cars24.com/buy-used-hyundai-verna-2015-cars-bengaluru-1026954362/
+424,Bengaluru,2018, Maruti Swift,ZXI AMT Automatic,"₹7,16,999","34,445 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-swift-2018-cars-bengaluru-1024562466/
+425,Bengaluru,2015, Honda City,SV MT PETROL Manual,"₹6,73,199","32,714 km",1st Owner,Petrol,https://www.cars24.com/buy-used-honda-city-2015-cars-bengaluru-1020800461/
+426,Bengaluru,2019, Maruti Eeco,7 STR Manual,"₹4,85,999","8,920 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-eeco-2019-cars-bengaluru-1020912064/
+427,Bengaluru,2016, Maruti Wagon R .,VXI Manual,"₹4,19,699","31,187 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-bengaluru-1023535609/
+428,Bengaluru,2016, Maruti Wagon R .,VXI Manual,"₹3,72,299","74,625 km",2nd Owner,Petrol,https://www.cars24.com/buy-used-maruti-wagon-r-1.0-2016-cars-bengaluru-1026148902/
+429,Bengaluru,2017, Maruti Baleno,ALPHA 1.2 K12 Manual,"₹7,17,499","31,020 km",1st Owner,Petrol,https://www.cars24.com/buy-used-maruti-baleno-2017-cars-bengaluru-1029830060/
