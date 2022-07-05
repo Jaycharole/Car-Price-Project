@@ -183,16 +183,16 @@
         <!-- Vendor JS Files -->
 
   <!-- Vendor JS Files -->
-  <script src="assets/js/purecounter.js"></script>
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/glightbox.min.js"></script>
-  <script src="assets/js/isotope.pkgd.min.js"></script>
-  <script src="assets/js/swiper-bundle.min.js"></script>
+   <script src="{{ url_for('static', filename='js/purecounter.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}" ></script>
+  <script src="{{ url_for('static', filename='js/glightbox.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/isotope.pkgd.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/swiper-bundle.min.js') }}"></script>
 
 
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
   </body>
 </html>
